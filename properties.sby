@@ -6,7 +6,7 @@ smtbmc
 
 [script]
 read -formal wrapper.v zube_wrapper.v zube.v data_register.v
-prep -top wrapped_project
+prep -top zube_wrapped_project
 
 [files]
 wrapper.v
