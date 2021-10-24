@@ -1,5 +1,8 @@
-__pycache__
-sim_build
 results.xml
-*vcd
-*hex
+sim_build
+zube.vcd
+__pycache__
+verify.log
+*.elf
+*.hex
+

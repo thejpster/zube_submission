@@ -21,26 +21,42 @@
 `include "caravel_netlists.v"
 `include "spiflash.v"
 
-module project_tb;
-    initial begin
-        $dumpfile ("project.vcd");
-        $dumpvars (0, project_tb);
-        #1;
-    end
+module zube_tb;
+	initial begin
+		$dumpfile ("zube.vcd");
+		$dumpvars (0, zube_tb);
+		#1;
+	end
 
 	reg clk;
-    reg RSTB;
+	reg RSTB;
 	reg power1, power2;
 	reg power3, power4;
 
-    wire gpio;
-    wire [37:0] mprj_io;
+	wire gpio;
+	wire [37:0] mprj_io;
 
-    ///// convenience signals that match what the cocotb test modules are looking for
+	///// convenience signals that match what the cocotb test modules are looking for
 
+	wire [7:0] z80_address_bus;
+	wire [7:0] z80_data_bus_in;
+	wire z80_write_strobe_b;
+	wire z80_read_strobe_b;
+	wire z80_ioreq_b;
+	wire z80_m1;
 
-    /////
-
+	// 0-7 are management
+	assign mprj_io[15:8] = z80_address_bus;
+	// These are bidirectional
+	assign mprj_io[23:16] = z80_data_bus_in;
+	wire [7:0] z80_data_bus_out = mprj_io[23:16];
+	wire z80_bus_dir = mprj_io[24];
+	assign mprj_io[25] = z80_read_strobe_b;
+	assign mprj_io[26] = z80_write_strobe_b;
+	assign mprj_io[27] = z80_m1;
+	assign mprj_io[28] = z80_ioreq_b;
+	// 27 and higher are unused
+	/////
 
 	wire flash_csb;
 	wire flash_clk;
@@ -53,40 +69,40 @@ module project_tb;
 	wire USER_VDD1V8 = power4;
 	wire VSS = 1'b0;
 
-	caravel uut (
-		.vddio	  (VDD3V3),
-		.vssio	  (VSS),
-		.vdda	  (VDD3V3),
-		.vssa	  (VSS),
-		.vccd	  (VDD1V8),
-		.vssd	  (VSS),
+	caravel uut(
+		.vddio    (VDD3V3),
+		.vssio    (VSS),
+		.vdda     (VDD3V3),
+		.vssa     (VSS),
+		.vccd     (VDD1V8),
+		.vssd     (VSS),
 		.vdda1    (USER_VDD3V3),
 		.vdda2    (USER_VDD3V3),
-		.vssa1	  (VSS),
-		.vssa2	  (VSS),
-		.vccd1	  (USER_VDD1V8),
-		.vccd2	  (USER_VDD1V8),
-		.vssd1	  (VSS),
-		.vssd2	  (VSS),
-		.clock	  (clk),
+		.vssa1    (VSS),
+		.vssa2    (VSS),
+		.vccd1    (USER_VDD1V8),
+		.vccd2    (USER_VDD1V8),
+		.vssd1    (VSS),
+		.vssd2    (VSS),
+		.clock    (clk),
 		.gpio     (gpio),
-        	.mprj_io  (mprj_io),
+		.mprj_io  (mprj_io),
 		.flash_csb(flash_csb),
 		.flash_clk(flash_clk),
 		.flash_io0(flash_io0),
 		.flash_io1(flash_io1),
-		.resetb	  (RSTB)
+		.resetb   (RSTB)
 	);
 
 	spiflash #(
-		.FILENAME("project.hex")
+		.FILENAME("zube.hex")
 	) spiflash (
 		.csb(flash_csb),
 		.clk(flash_clk),
 		.io0(flash_io0),
 		.io1(flash_io1),
-		.io2(),			// not used
-		.io3()			// not used
+		.io2(),          // not used
+		.io3()           // not used
 	);
 
 endmodule
