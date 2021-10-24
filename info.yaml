@@ -1,11 +1,11 @@
---- 
+---
 # information
-project: 
-  title: "title"
-  description: "description"
+project:
+  title: "Zube"
+  description: "A generic Z80 bus peripheral"
   picture: docs/empty.png
-  author: "Author"
-  github: https://github.com/link
+  author: "Jonathan 'theJPster' Pallant"
+  github: https://github.com/thejpster/zube
   license: LICENSE
 
 # test within caravel
@@ -13,13 +13,13 @@ caravel_test:
   recipe: "coco_test"
   directory: "caravel_test"
   id: 1
-  module_name: "wrapped_project"
-  instance_name: "wrapped_project"
+  module_name: "zube_wrapped_project"
+  instance_name: "zube_wrapped_project"
 
 # module test
 module_test:
-  recipe: "all" 
-  directory: "project directory"
+  recipe: "all"
+  directory: "zube"
   makefile: "Makefile"
 
 # run the wrapper formal proof
@@ -34,7 +34,9 @@ openlane:
 # source required for various configs and module instantiation
 source:
     - wrapper.v
-    - other source files here
+    - zube/src/zube_wrapper.v
+    - zube/src/zube.v
+    - zube/src/data_register.v
 
 # gds - check size = 300x300, nothing on metal 5, do a DRC, check 141 tristate buffers, check LVS
 gds:
