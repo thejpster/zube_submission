@@ -1,9 +1,9 @@
 `default_nettype none
 `ifdef FORMAL
-    `define MPRJ_IO_PADS 38    
+    `define MPRJ_IO_PADS 38
 `endif
 // update this to the name of your module
-module wrapped_project(
+module zube_wrapped_project(
 `ifdef USE_POWER_PINS
     inout vccd1,	// User area 1 1.8V supply
     inout vssd1,	// User area 1 digital ground
@@ -36,7 +36,7 @@ module wrapped_project(
 
     // extra user clock
     input wire user_clock2,
-    
+
     // active input, only connect tristated outputs if this is high
     input wire active
 );
@@ -68,12 +68,41 @@ module wrapped_project(
     assign irq          = active ? buf_irq          : 3'bz;
     `endif
 
-    // permanently set oeb so that outputs are always enabled: 0 is output, 1 is high-impedance
-    assign buf_io_oeb = {`MPRJ_IO_PADS{1'b0}};
+    // set oeb so that unused outputs (top 2, bottom 8) are enabled
+    assign buf_io_oeb[`MPRJ_IO_PADS-1:36] = 2'b11;
+    assign buf_io_out[`MPRJ_IO_PADS-1:36] = 2'b0;
+    assign buf_io_oeb[7:0] = 8'hFF;
+    assign buf_io_out[7:0] = 8'h0;
+    // Set unused LA bits
+    assign buf_la_data_out[31:0] = 32'h00000000;
+    // Set unused IRQs
+    assign buf_irq[2:1] = 2'b0;
 
-    // Instantiate your module here, 
-    // connecting what you need of the above signals. 
+    // Instantiate your module here,
+    // connecting what you need of the above signals.
     // Use the buffered outputs for your module's outputs.
+    zube_wrapper zube_wrapper0(
+`ifdef USE_POWER_PINS
+    .vccd1(vccd1),  // User area 1 1.8V power
+    .vssd1(vssd1),  // User area 1 digital ground
+`endif
 
-endmodule 
+    .clk(wb_clk_i),
+    .reset_b(la_data_in[0]),
+    // GPIO 37, 36 and 7..0 are used by other things
+    .io_in(io_in[35:8]),
+    .io_out(buf_io_out[35:8]),
+    .io_oeb(buf_io_oeb[35:8]),
+    .wb_cyc_in(wbs_cyc_i),
+    .wb_stb_in(wbs_stb_i),
+    .wb_we_in(wbs_we_i),
+    .wb_addr_in(wbs_adr_i),
+    .wb_data_in(wbs_dat_i),
+    .wb_ack_out(buf_wbs_ack_o),
+    .wb_data_out(buf_wbs_dat_o),
+    .irq_out(buf_irq[0])
+
+    );
+
+endmodule
 `default_nettype wire

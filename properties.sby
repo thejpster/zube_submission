@@ -5,10 +5,12 @@ mode prove
 smtbmc
 
 [script]
-read -formal wrapper.v rest of your source files.v
+read -formal wrapper.v zube_wrapper.v zube.v data_register.v
 prep -top wrapped_project
 
 [files]
 wrapper.v
 properties.v
-rest of your source files.v
+zube/src/zube_wrapper.v
+zube/src/zube.v
+zube/src/data_register.v

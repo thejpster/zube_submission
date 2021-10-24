@@ -2,11 +2,13 @@
 set script_dir [file dirname [file normalize [info script]]]
 
 # name of your project, should also match the name of the top module
-set ::env(DESIGN_NAME) project_name
+set ::env(DESIGN_NAME) zube_wrapped_project
 
 # add your source files here
 set ::env(VERILOG_FILES) "$::env(DESIGN_DIR)/wrapper.v \
-    $::env(DESIGN_DIR)/other source files.v"
+    $::env(DESIGN_DIR)/zube/src/zube_wrapper.v \
+    $::env(DESIGN_DIR)/zube/src/data_register.v \
+    $::env(DESIGN_DIR)/zube/src/zube.v"
 
 # target density, change this if you can't get your design to fit
 set ::env(PL_TARGET_DENSITY) 0.4

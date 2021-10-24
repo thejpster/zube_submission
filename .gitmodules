@@ -1,0 +1,3 @@
+[submodule "zube"]
+	path = zube
+	url = https://github.com/thejpster/zube.git
