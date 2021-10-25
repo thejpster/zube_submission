@@ -8,6 +8,8 @@ project:
   github: https://github.com/thejpster/zube
   license: LICENSE
 
+interfaces: ['la1', 'gpio']
+
 # test within caravel
 caravel_test:
   recipe: "coco_test"
