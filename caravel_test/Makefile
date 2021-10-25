@@ -36,7 +36,7 @@ PDK_PATH?=/ef/tech/SW/sky130A
 SIM?=RTL
 
 # include the modules that cocotb needs for test
-export PYTHONPATH := $(UPRJ_RTL_PATH)/zube/test
+export PYTHONPATH := $(UPRJ_RTL_PATH)/zube_submission/zube/test
 
 .SUFFIXES:
 
