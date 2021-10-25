@@ -76,20 +76,20 @@ void main()
 	reg_mprj_io_28 =  GPIO_MODE_USER_STD_INPUT_NOPULL;
 
 	/* Activate my project */
-	reg_la1_iena = 0; // input enable off
-	reg_la1_oenb = 0; // output enable bar low (enabled)
-	reg_la1_data = 1 << 5;
+	reg_la0_iena = 0; // input enable off
+	reg_la0_oenb = 0; // output enable bar low (enabled)
+	reg_la0_data = 1 << 5;
 
 	/* Apply configuration */
 	reg_mprj_xfer = 1;
 	while (reg_mprj_xfer == 1);
 
 	// reset design with 0bit of 1st bank of LA
-	reg_la0_data = 1;
-	reg_la0_oenb = 0;
-	reg_la0_iena = 0;
-	reg_la0_data = 0;
-	reg_la0_data = 1;
+	reg_la1_data = 1;
+	reg_la1_oenb = 0;
+	reg_la1_iena = 0;
+	reg_la1_data = 0;
+	reg_la1_data = 1;
 
 	volatile uint32_t* const p_z80_base_address = (volatile uint32_t*) 0x30000000;
 	volatile uint32_t* const p_data = (volatile uint32_t*) 0x30000004;

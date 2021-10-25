@@ -56,8 +56,8 @@ async def test_all(dut):
     cocotb.fork(clock.start())
 
     # wait for the reset signal - time out if necessary - should happen around 165us
-    await with_timeout(FallingEdge(dut.uut.mprj.zube_wrapper0.reset_b), 1000, 'us')
-    await RisingEdge(dut.uut.mprj.zube_wrapper0.reset_b)
+    await with_timeout(FallingEdge(dut.uut.mprj.zube_wrapped_project_5.zube_wrapper0.reset_b), 1000, 'us')
+    await with_timeout(RisingEdge(dut.uut.mprj.zube_wrapped_project_5.zube_wrapper0.reset_b), 1000, 'us')
 
     # This value is kind of arbitrary, but needs to be long enough for the
     # GPIO registers to be set, so that cocotb doesn't pull random garbage.
