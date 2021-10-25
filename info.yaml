@@ -8,7 +8,7 @@ project:
   github: https://github.com/thejpster/zube
   license: LICENSE
 
-interfaces: ['la1', 'gpio']
+interfaces: ['la1', 'gpio', 'irq', 'wishbone']
 
 # test within caravel
 caravel_test:
