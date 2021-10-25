@@ -78,7 +78,7 @@ void main()
 	/* Activate my project */
 	reg_la1_iena = 0; // input enable off
 	reg_la1_oenb = 0; // output enable bar low (enabled)
-	reg_la1_data = 1 << 1;
+	reg_la1_data = 1 << 5;
 
 	/* Apply configuration */
 	reg_mprj_xfer = 1;
