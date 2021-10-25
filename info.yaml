@@ -3,7 +3,7 @@
 project:
   title: "Zube"
   description: "A generic Z80 bus peripheral"
-  picture: docs/empty.png
+  picture: docs/zube.png
   author: "Jonathan 'theJPster' Pallant"
   github: https://github.com/thejpster/zube
   license: LICENSE
