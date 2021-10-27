@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-CocoTB Test Bench for the Caravel-wrapped Zube project.
+CocoTB Test Bench for the Multi-Project-Tool wrapped Zube project.
 """
 
 import cocotb
@@ -67,12 +67,14 @@ async def test_all(dut):
     # registers
 
     # Ping 10 pairs of bytes into the SoC, and get 10 pairs of bytes back - on each FIFO
-    for data_out in range(0, 10):
-        # Write data byte and control byte
-        await test_zube.test_z80_set(dut, 0x81, data_out)
-        await test_zube.test_z80_set(dut, 0x81, data_out + 0x80)
-        await test_zube.test_z80_set(dut, 0x82, data_out + 1)
-        await test_zube.test_z80_set(dut, 0x82, data_out + 0x81)
+    for x in range(0, 10):
+        # Write data bytes and control bytes
+        await test_zube.test_z80_set(dut, 0x81, x)
+        await test_zube.test_z80_set(dut, 0x81, x + 0x80)
+        await test_zube.test_z80_set(dut, 0x82, x + 1)
+        await test_zube.test_z80_set(dut, 0x82, x + 0x81)
+
+        # Check first two bytes pushed
         for y in range(0, 20):
             # Simulate 16x Z80 clock cycles, at 1/8 SoC clock speed. Plus an
             # extra cycle to ensure things don't always line up nicely
@@ -86,12 +88,29 @@ async def test_all(dut):
         if not found:
             raise Exception("Failed to poll Z80 Status")
         data_in = await test_zube.test_z80_get(dut, 0x81)
-        assert data_in == (data_out ^ 0xFF) & 0xFF
+        assert data_in == flip(x), f"{data_in} == {flip(x)}"
+        control_in = await test_zube.test_z80_get(dut, 0x82)
+        assert control_in == flip(x + 1), f"{control_in} == {flip(x + 1)}"
+
+        # Check second two bytes pushed
+        for y in range(0, 20):
+            # Simulate 16x Z80 clock cycles, at 1/8 SoC clock speed. Plus an
+            # extra cycle to ensure things don't always line up nicely
+            await ClockCycles(dut.clk, (16 * 8) + 1)
+            status = await test_zube.test_z80_get(dut, 0x83)
+            # Check both IN registers are ready
+            if (status & 0x0C) == 0x0C:
+                found = True
+                print(f"Took {y} loops to poll")
+                break
+        if not found:
+            raise Exception("Failed to poll Z80 Status")
         data_in = await test_zube.test_z80_get(dut, 0x81)
-        assert data_in == ((0x80 + data_out) ^ 0xFF) & 0xFF
+        assert data_in == flip(x + 0x80), f"{data_in} == {flip(x + 0x80)}"
         control_in = await test_zube.test_z80_get(dut, 0x82)
-        assert control_in == ((data_out + 1) ^ 0xFF) & 0xFF
-        control_in = await test_zube.test_z80_get(dut, 0x82)
-        assert control_in == ((data_out + 0x81) ^ 0xFF) & 0xFF
+        assert control_in == flip(x + 0x81), f"{control_in} == {flip(x + 0x81)}"
 
     print("Test complete")
+
+def flip(b):
+    return (b & 0xFF) ^ 0xFF
