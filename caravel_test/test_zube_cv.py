@@ -66,11 +66,13 @@ async def test_all(dut):
     # RV32 core resets Z80 address to 0x81 on start-up and writes to both
     # registers
 
-    # Ping 10 bytes into the SoC, and get 10 bytes back
+    # Ping 10 pairs of bytes into the SoC, and get 10 pairs of bytes back - on each FIFO
     for data_out in range(0, 10):
         # Write data byte and control byte
         await test_zube.test_z80_set(dut, 0x81, data_out)
+        await test_zube.test_z80_set(dut, 0x81, data_out + 0x80)
         await test_zube.test_z80_set(dut, 0x82, data_out + 1)
+        await test_zube.test_z80_set(dut, 0x82, data_out + 0x81)
         for y in range(0, 20):
             # Simulate 16x Z80 clock cycles, at 1/8 SoC clock speed. Plus an
             # extra cycle to ensure things don't always line up nicely
@@ -85,7 +87,11 @@ async def test_all(dut):
             raise Exception("Failed to poll Z80 Status")
         data_in = await test_zube.test_z80_get(dut, 0x81)
         assert data_in == (data_out ^ 0xFF) & 0xFF
+        data_in = await test_zube.test_z80_get(dut, 0x81)
+        assert data_in == ((0x80 + data_out) ^ 0xFF) & 0xFF
         control_in = await test_zube.test_z80_get(dut, 0x82)
         assert control_in == ((data_out + 1) ^ 0xFF) & 0xFF
+        control_in = await test_zube.test_z80_get(dut, 0x82)
+        assert control_in == ((data_out + 0x81) ^ 0xFF) & 0xFF
 
     print("Test complete")
