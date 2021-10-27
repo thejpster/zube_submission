@@ -12,11 +12,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 20.330 296.000 20.610 300.000 ;
-=======
         RECT 19.410 296.000 19.690 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END active
   PIN io_in[0]
@@ -32,11 +28,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 62.600 300.000 63.200 ;
-=======
         RECT 296.000 64.640 300.000 65.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[10]
   PIN io_in[11]
@@ -44,11 +36,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 68.720 300.000 69.320 ;
-=======
         RECT 296.000 70.760 300.000 71.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[11]
   PIN io_in[12]
@@ -56,11 +44,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 74.840 300.000 75.440 ;
-=======
         RECT 296.000 77.560 300.000 78.160 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[12]
   PIN io_in[13]
@@ -68,11 +52,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 80.960 300.000 81.560 ;
-=======
         RECT 296.000 83.680 300.000 84.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[13]
   PIN io_in[14]
@@ -80,11 +60,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 87.080 300.000 87.680 ;
-=======
         RECT 296.000 90.480 300.000 91.080 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[14]
   PIN io_in[15]
@@ -92,11 +68,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 93.200 300.000 93.800 ;
-=======
         RECT 296.000 96.600 300.000 97.200 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[15]
   PIN io_in[16]
@@ -104,11 +76,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 99.320 300.000 99.920 ;
-=======
         RECT 296.000 103.400 300.000 104.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[16]
   PIN io_in[17]
@@ -116,11 +84,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 106.120 300.000 106.720 ;
-=======
         RECT 296.000 109.520 300.000 110.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[17]
   PIN io_in[18]
@@ -128,11 +92,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 112.240 300.000 112.840 ;
-=======
         RECT 296.000 116.320 300.000 116.920 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[18]
   PIN io_in[19]
@@ -140,11 +100,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 118.360 300.000 118.960 ;
-=======
         RECT 296.000 122.440 300.000 123.040 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[19]
   PIN io_in[1]
@@ -160,11 +116,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 124.480 300.000 125.080 ;
-=======
         RECT 296.000 129.240 300.000 129.840 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[20]
   PIN io_in[21]
@@ -172,11 +124,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 130.600 300.000 131.200 ;
-=======
         RECT 296.000 135.360 300.000 135.960 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[21]
   PIN io_in[22]
@@ -184,11 +132,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 136.720 300.000 137.320 ;
-=======
         RECT 296.000 141.480 300.000 142.080 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[22]
   PIN io_in[23]
@@ -196,11 +140,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 142.840 300.000 143.440 ;
-=======
         RECT 296.000 148.280 300.000 148.880 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[23]
   PIN io_in[24]
@@ -208,11 +148,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 148.960 300.000 149.560 ;
-=======
         RECT 296.000 154.400 300.000 155.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[24]
   PIN io_in[25]
@@ -220,11 +156,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 155.760 300.000 156.360 ;
-=======
         RECT 296.000 161.200 300.000 161.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[25]
   PIN io_in[26]
@@ -232,11 +164,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 161.880 300.000 162.480 ;
-=======
         RECT 296.000 167.320 300.000 167.920 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[26]
   PIN io_in[27]
@@ -244,11 +172,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 168.000 300.000 168.600 ;
-=======
         RECT 296.000 174.120 300.000 174.720 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[27]
   PIN io_in[28]
@@ -256,11 +180,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 174.120 300.000 174.720 ;
-=======
         RECT 296.000 180.240 300.000 180.840 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[28]
   PIN io_in[29]
@@ -268,11 +188,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 180.240 300.000 180.840 ;
-=======
         RECT 296.000 187.040 300.000 187.640 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[29]
   PIN io_in[2]
@@ -288,11 +204,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 186.360 300.000 186.960 ;
-=======
         RECT 296.000 193.160 300.000 193.760 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[30]
   PIN io_in[31]
@@ -300,11 +212,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 192.480 300.000 193.080 ;
-=======
         RECT 296.000 199.280 300.000 199.880 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[31]
   PIN io_in[32]
@@ -312,11 +220,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 198.600 300.000 199.200 ;
-=======
         RECT 296.000 206.080 300.000 206.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[32]
   PIN io_in[33]
@@ -324,11 +228,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 205.400 300.000 206.000 ;
-=======
         RECT 296.000 212.200 300.000 212.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[33]
   PIN io_in[34]
@@ -336,11 +236,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 211.520 300.000 212.120 ;
-=======
         RECT 296.000 219.000 300.000 219.600 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[34]
   PIN io_in[35]
@@ -348,11 +244,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 217.640 300.000 218.240 ;
-=======
         RECT 296.000 225.120 300.000 225.720 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[35]
   PIN io_in[36]
@@ -360,11 +252,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 223.760 300.000 224.360 ;
-=======
         RECT 296.000 231.920 300.000 232.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[36]
   PIN io_in[37]
@@ -372,11 +260,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 229.880 300.000 230.480 ;
-=======
         RECT 296.000 238.040 300.000 238.640 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[37]
   PIN io_in[3]
@@ -384,11 +268,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 19.080 300.000 19.680 ;
-=======
         RECT 296.000 19.760 300.000 20.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[3]
   PIN io_in[4]
@@ -396,11 +276,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 25.200 300.000 25.800 ;
-=======
         RECT 296.000 25.880 300.000 26.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[4]
   PIN io_in[5]
@@ -408,11 +284,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 31.320 300.000 31.920 ;
-=======
         RECT 296.000 32.680 300.000 33.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[5]
   PIN io_in[6]
@@ -420,11 +292,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 37.440 300.000 38.040 ;
-=======
         RECT 296.000 38.800 300.000 39.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[6]
   PIN io_in[7]
@@ -432,11 +300,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 43.560 300.000 44.160 ;
-=======
         RECT 296.000 45.600 300.000 46.200 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[7]
   PIN io_in[8]
@@ -444,11 +308,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 49.680 300.000 50.280 ;
-=======
         RECT 296.000 51.720 300.000 52.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[8]
   PIN io_in[9]
@@ -456,11 +316,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 56.480 300.000 57.080 ;
-=======
         RECT 296.000 58.520 300.000 59.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_in[9]
   PIN io_oeb[0]
@@ -476,11 +332,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 66.680 300.000 67.280 ;
-=======
         RECT 296.000 68.720 300.000 69.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[10]
   PIN io_oeb[11]
@@ -488,11 +340,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 72.800 300.000 73.400 ;
-=======
         RECT 296.000 75.520 300.000 76.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[11]
   PIN io_oeb[12]
@@ -500,11 +348,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 78.920 300.000 79.520 ;
-=======
         RECT 296.000 81.640 300.000 82.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[12]
   PIN io_oeb[13]
@@ -512,11 +356,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 85.040 300.000 85.640 ;
-=======
         RECT 296.000 88.440 300.000 89.040 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[13]
   PIN io_oeb[14]
@@ -524,11 +364,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 91.160 300.000 91.760 ;
-=======
         RECT 296.000 94.560 300.000 95.160 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[14]
   PIN io_oeb[15]
@@ -536,11 +372,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 97.280 300.000 97.880 ;
-=======
         RECT 296.000 101.360 300.000 101.960 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[15]
   PIN io_oeb[16]
@@ -548,11 +380,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 104.080 300.000 104.680 ;
-=======
         RECT 296.000 107.480 300.000 108.080 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[16]
   PIN io_oeb[17]
@@ -560,11 +388,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 110.200 300.000 110.800 ;
-=======
         RECT 296.000 113.600 300.000 114.200 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[17]
   PIN io_oeb[18]
@@ -572,11 +396,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 116.320 300.000 116.920 ;
-=======
         RECT 296.000 120.400 300.000 121.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[18]
   PIN io_oeb[19]
@@ -584,11 +404,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 122.440 300.000 123.040 ;
-=======
         RECT 296.000 126.520 300.000 127.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[19]
   PIN io_oeb[1]
@@ -604,11 +420,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 128.560 300.000 129.160 ;
-=======
         RECT 296.000 133.320 300.000 133.920 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[20]
   PIN io_oeb[21]
@@ -616,11 +428,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 134.680 300.000 135.280 ;
-=======
         RECT 296.000 139.440 300.000 140.040 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[21]
   PIN io_oeb[22]
@@ -628,11 +436,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 140.800 300.000 141.400 ;
-=======
         RECT 296.000 146.240 300.000 146.840 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[22]
   PIN io_oeb[23]
@@ -640,11 +444,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 146.920 300.000 147.520 ;
-=======
         RECT 296.000 152.360 300.000 152.960 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[23]
   PIN io_oeb[24]
@@ -652,11 +452,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 153.720 300.000 154.320 ;
-=======
         RECT 296.000 159.160 300.000 159.760 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[24]
   PIN io_oeb[25]
@@ -664,11 +460,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 159.840 300.000 160.440 ;
-=======
         RECT 296.000 165.280 300.000 165.880 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[25]
   PIN io_oeb[26]
@@ -676,11 +468,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 165.960 300.000 166.560 ;
-=======
         RECT 296.000 172.080 300.000 172.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[26]
   PIN io_oeb[27]
@@ -688,11 +476,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 172.080 300.000 172.680 ;
-=======
         RECT 296.000 178.200 300.000 178.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[27]
   PIN io_oeb[28]
@@ -700,11 +484,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 178.200 300.000 178.800 ;
-=======
         RECT 296.000 184.320 300.000 184.920 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[28]
   PIN io_oeb[29]
@@ -712,11 +492,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 184.320 300.000 184.920 ;
-=======
         RECT 296.000 191.120 300.000 191.720 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[29]
   PIN io_oeb[2]
@@ -724,11 +500,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 17.040 300.000 17.640 ;
-=======
         RECT 296.000 17.720 300.000 18.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[2]
   PIN io_oeb[30]
@@ -736,11 +508,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 190.440 300.000 191.040 ;
-=======
         RECT 296.000 197.240 300.000 197.840 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[30]
   PIN io_oeb[31]
@@ -748,11 +516,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 196.560 300.000 197.160 ;
-=======
         RECT 296.000 204.040 300.000 204.640 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[31]
   PIN io_oeb[32]
@@ -760,11 +524,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 203.360 300.000 203.960 ;
-=======
         RECT 296.000 210.160 300.000 210.760 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[32]
   PIN io_oeb[33]
@@ -772,11 +532,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 209.480 300.000 210.080 ;
-=======
         RECT 296.000 216.960 300.000 217.560 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[33]
   PIN io_oeb[34]
@@ -784,11 +540,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 215.600 300.000 216.200 ;
-=======
         RECT 296.000 223.080 300.000 223.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[34]
   PIN io_oeb[35]
@@ -796,11 +548,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 221.720 300.000 222.320 ;
-=======
         RECT 296.000 229.880 300.000 230.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[35]
   PIN io_oeb[36]
@@ -808,11 +556,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 227.840 300.000 228.440 ;
-=======
         RECT 296.000 236.000 300.000 236.600 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[36]
   PIN io_oeb[37]
@@ -820,11 +564,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 233.960 300.000 234.560 ;
-=======
         RECT 296.000 242.120 300.000 242.720 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[37]
   PIN io_oeb[3]
@@ -832,11 +572,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 23.160 300.000 23.760 ;
-=======
         RECT 296.000 23.840 300.000 24.440 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[3]
   PIN io_oeb[4]
@@ -844,11 +580,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 29.280 300.000 29.880 ;
-=======
         RECT 296.000 30.640 300.000 31.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[4]
   PIN io_oeb[5]
@@ -856,11 +588,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 35.400 300.000 36.000 ;
-=======
         RECT 296.000 36.760 300.000 37.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[5]
   PIN io_oeb[6]
@@ -868,11 +596,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 41.520 300.000 42.120 ;
-=======
         RECT 296.000 43.560 300.000 44.160 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[6]
   PIN io_oeb[7]
@@ -880,11 +604,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 47.640 300.000 48.240 ;
-=======
         RECT 296.000 49.680 300.000 50.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[7]
   PIN io_oeb[8]
@@ -892,11 +612,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 54.440 300.000 55.040 ;
-=======
         RECT 296.000 55.800 300.000 56.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[8]
   PIN io_oeb[9]
@@ -904,11 +620,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 60.560 300.000 61.160 ;
-=======
         RECT 296.000 62.600 300.000 63.200 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_oeb[9]
   PIN io_out[0]
@@ -924,11 +636,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 64.640 300.000 65.240 ;
-=======
         RECT 296.000 66.680 300.000 67.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[10]
   PIN io_out[11]
@@ -936,11 +644,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 70.760 300.000 71.360 ;
-=======
         RECT 296.000 73.480 300.000 74.080 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[11]
   PIN io_out[12]
@@ -948,11 +652,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 76.880 300.000 77.480 ;
-=======
         RECT 296.000 79.600 300.000 80.200 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[12]
   PIN io_out[13]
@@ -960,11 +660,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 83.000 300.000 83.600 ;
-=======
         RECT 296.000 86.400 300.000 87.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[13]
   PIN io_out[14]
@@ -972,11 +668,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 89.120 300.000 89.720 ;
-=======
         RECT 296.000 92.520 300.000 93.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[14]
   PIN io_out[15]
@@ -984,11 +676,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 95.240 300.000 95.840 ;
-=======
         RECT 296.000 98.640 300.000 99.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[15]
   PIN io_out[16]
@@ -996,11 +684,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 102.040 300.000 102.640 ;
-=======
         RECT 296.000 105.440 300.000 106.040 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[16]
   PIN io_out[17]
@@ -1008,11 +692,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 108.160 300.000 108.760 ;
-=======
         RECT 296.000 111.560 300.000 112.160 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[17]
   PIN io_out[18]
@@ -1020,11 +700,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 114.280 300.000 114.880 ;
-=======
         RECT 296.000 118.360 300.000 118.960 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[18]
   PIN io_out[19]
@@ -1032,11 +708,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 120.400 300.000 121.000 ;
-=======
         RECT 296.000 124.480 300.000 125.080 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[19]
   PIN io_out[1]
@@ -1052,11 +724,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 126.520 300.000 127.120 ;
-=======
         RECT 296.000 131.280 300.000 131.880 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[20]
   PIN io_out[21]
@@ -1064,11 +732,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 132.640 300.000 133.240 ;
-=======
         RECT 296.000 137.400 300.000 138.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[21]
   PIN io_out[22]
@@ -1076,11 +740,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 138.760 300.000 139.360 ;
-=======
         RECT 296.000 144.200 300.000 144.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[22]
   PIN io_out[23]
@@ -1088,11 +748,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 144.880 300.000 145.480 ;
-=======
         RECT 296.000 150.320 300.000 150.920 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[23]
   PIN io_out[24]
@@ -1100,11 +756,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 151.680 300.000 152.280 ;
-=======
         RECT 296.000 156.440 300.000 157.040 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[24]
   PIN io_out[25]
@@ -1112,11 +764,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 157.800 300.000 158.400 ;
-=======
         RECT 296.000 163.240 300.000 163.840 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[25]
   PIN io_out[26]
@@ -1124,11 +772,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 163.920 300.000 164.520 ;
-=======
         RECT 296.000 169.360 300.000 169.960 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[26]
   PIN io_out[27]
@@ -1136,11 +780,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 170.040 300.000 170.640 ;
-=======
         RECT 296.000 176.160 300.000 176.760 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[27]
   PIN io_out[28]
@@ -1148,11 +788,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 176.160 300.000 176.760 ;
-=======
         RECT 296.000 182.280 300.000 182.880 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[28]
   PIN io_out[29]
@@ -1160,11 +796,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 182.280 300.000 182.880 ;
-=======
         RECT 296.000 189.080 300.000 189.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[29]
   PIN io_out[2]
@@ -1172,11 +804,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 15.000 300.000 15.600 ;
-=======
         RECT 296.000 15.680 300.000 16.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[2]
   PIN io_out[30]
@@ -1184,11 +812,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 188.400 300.000 189.000 ;
-=======
         RECT 296.000 195.200 300.000 195.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[30]
   PIN io_out[31]
@@ -1196,11 +820,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 194.520 300.000 195.120 ;
-=======
         RECT 296.000 202.000 300.000 202.600 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[31]
   PIN io_out[32]
@@ -1208,11 +828,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 201.320 300.000 201.920 ;
-=======
         RECT 296.000 208.120 300.000 208.720 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[32]
   PIN io_out[33]
@@ -1220,11 +836,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 207.440 300.000 208.040 ;
-=======
         RECT 296.000 214.920 300.000 215.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[33]
   PIN io_out[34]
@@ -1232,11 +844,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 213.560 300.000 214.160 ;
-=======
         RECT 296.000 221.040 300.000 221.640 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[34]
   PIN io_out[35]
@@ -1244,11 +852,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 219.680 300.000 220.280 ;
-=======
         RECT 296.000 227.160 300.000 227.760 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[35]
   PIN io_out[36]
@@ -1256,11 +860,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 225.800 300.000 226.400 ;
-=======
         RECT 296.000 233.960 300.000 234.560 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[36]
   PIN io_out[37]
@@ -1268,11 +868,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 231.920 300.000 232.520 ;
-=======
         RECT 296.000 240.080 300.000 240.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[37]
   PIN io_out[3]
@@ -1280,11 +876,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 21.120 300.000 21.720 ;
-=======
         RECT 296.000 21.800 300.000 22.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[3]
   PIN io_out[4]
@@ -1292,11 +884,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 27.240 300.000 27.840 ;
-=======
         RECT 296.000 27.920 300.000 28.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[4]
   PIN io_out[5]
@@ -1304,11 +892,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 33.360 300.000 33.960 ;
-=======
         RECT 296.000 34.720 300.000 35.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[5]
   PIN io_out[6]
@@ -1316,11 +900,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 39.480 300.000 40.080 ;
-=======
         RECT 296.000 40.840 300.000 41.440 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[6]
   PIN io_out[7]
@@ -1328,11 +908,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 45.600 300.000 46.200 ;
-=======
         RECT 296.000 47.640 300.000 48.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[7]
   PIN io_out[8]
@@ -1340,11 +916,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 52.400 300.000 53.000 ;
-=======
         RECT 296.000 53.760 300.000 54.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[8]
   PIN io_out[9]
@@ -1352,11 +924,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 58.520 300.000 59.120 ;
-=======
         RECT 296.000 60.560 300.000 61.160 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END io_out[9]
   PIN la1_data_in[0]
@@ -1364,76 +932,47 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 236.000 300.000 236.600 ;
-=======
         RECT 0.000 176.840 4.000 177.440 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[0]
   PIN la1_data_in[10]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 199.960 4.000 200.560 ;
-=======
       LAYER met2 ;
         RECT 247.110 296.000 247.390 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[10]
   PIN la1_data_in[11]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 141.310 0.000 141.590 4.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 214.920 4.000 215.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[11]
   PIN la1_data_in[12]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 214.240 4.000 214.840 ;
-=======
       LAYER met2 ;
         RECT 250.330 296.000 250.610 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[12]
   PIN la1_data_in[13]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 158.330 0.000 158.610 4.000 ;
-=======
       LAYER met3 ;
         RECT 296.000 267.960 300.000 268.560 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[13]
   PIN la1_data_in[14]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 259.990 296.000 260.270 300.000 ;
-=======
       LAYER met3 ;
         RECT 296.000 274.760 300.000 275.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[14]
   PIN la1_data_in[15]
@@ -1441,24 +980,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 229.200 4.000 229.800 ;
-=======
         RECT 0.000 236.680 4.000 237.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[15]
   PIN la1_data_in[16]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 233.960 4.000 234.560 ;
-=======
       LAYER met2 ;
         RECT 256.310 296.000 256.590 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[16]
   PIN la1_data_in[17]
@@ -1466,11 +996,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 269.650 296.000 269.930 300.000 ;
-=======
         RECT 137.630 0.000 137.910 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[17]
   PIN la1_data_in[18]
@@ -1478,50 +1004,31 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 273.400 300.000 274.000 ;
-=======
         RECT 0.000 247.560 4.000 248.160 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[18]
   PIN la1_data_in[19]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 238.720 4.000 239.320 ;
-=======
       LAYER met2 ;
         RECT 268.270 296.000 268.550 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[19]
   PIN la1_data_in[1]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 238.040 300.000 238.640 ;
-=======
       LAYER met2 ;
         RECT 18.030 0.000 18.310 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[1]
   PIN la1_data_in[20]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 253.000 4.000 253.600 ;
-=======
       LAYER met2 ;
         RECT 173.970 0.000 174.250 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[20]
   PIN la1_data_in[21]
@@ -1529,24 +1036,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 257.760 4.000 258.360 ;
-=======
         RECT 0.000 258.440 4.000 259.040 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[21]
   PIN la1_data_in[22]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 279.520 300.000 280.120 ;
-=======
       LAYER met2 ;
         RECT 277.010 296.000 277.290 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[22]
   PIN la1_data_in[23]
@@ -1554,11 +1052,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 283.600 300.000 284.200 ;
-=======
         RECT 0.000 269.320 4.000 269.920 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[23]
   PIN la1_data_in[24]
@@ -1566,24 +1060,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 224.570 0.000 224.850 4.000 ;
-=======
         RECT 197.890 0.000 198.170 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[24]
   PIN la1_data_in[25]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 282.070 296.000 282.350 300.000 ;
-=======
       LAYER met3 ;
         RECT 296.000 291.760 300.000 292.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[25]
   PIN la1_data_in[26]
@@ -1591,11 +1076,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 285.290 296.000 285.570 300.000 ;
-=======
         RECT 221.810 0.000 222.090 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[26]
   PIN la1_data_in[27]
@@ -1603,11 +1084,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 288.510 296.000 288.790 300.000 ;
-=======
         RECT 245.730 0.000 246.010 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[27]
   PIN la1_data_in[28]
@@ -1615,37 +1092,23 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 258.150 0.000 258.430 4.000 ;
-=======
         RECT 257.690 0.000 257.970 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[28]
   PIN la1_data_in[29]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 274.710 0.000 274.990 4.000 ;
-=======
       LAYER met3 ;
         RECT 296.000 295.840 300.000 296.440 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[29]
   PIN la1_data_in[2]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 241.130 296.000 241.410 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 198.600 4.000 199.200 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[2]
   PIN la1_data_in[30]
@@ -1653,24 +1116,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 293.800 300.000 294.400 ;
-=======
         RECT 296.000 297.880 300.000 298.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[30]
   PIN la1_data_in[31]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 296.520 4.000 297.120 ;
-=======
       LAYER met2 ;
         RECT 294.950 296.000 295.230 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[31]
   PIN la1_data_in[3]
@@ -1678,11 +1132,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 41.490 0.000 41.770 4.000 ;
-=======
         RECT 41.950 0.000 42.230 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[3]
   PIN la1_data_in[4]
@@ -1690,37 +1140,23 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 58.050 0.000 58.330 4.000 ;
-=======
         RECT 232.390 296.000 232.670 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[4]
   PIN la1_data_in[5]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 244.350 296.000 244.630 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 204.040 4.000 204.640 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[5]
   PIN la1_data_in[6]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 247.570 296.000 247.850 300.000 ;
-=======
       LAYER met3 ;
         RECT 296.000 255.040 300.000 255.640 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[6]
   PIN la1_data_in[7]
@@ -1728,24 +1164,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 74.610 0.000 74.890 4.000 ;
-=======
         RECT 241.130 296.000 241.410 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[7]
   PIN la1_data_in[8]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 190.440 4.000 191.040 ;
-=======
       LAYER met2 ;
         RECT 244.350 296.000 244.630 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[8]
   PIN la1_data_in[9]
@@ -1753,24 +1180,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 254.010 296.000 254.290 300.000 ;
-=======
         RECT 125.670 0.000 125.950 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_in[9]
   PIN la1_data_out[0]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 8.370 0.000 8.650 4.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 182.280 4.000 182.880 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[0]
   PIN la1_data_out[10]
@@ -1778,11 +1196,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 257.080 300.000 257.680 ;
-=======
         RECT 296.000 263.880 300.000 264.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[10]
   PIN la1_data_out[11]
@@ -1790,11 +1204,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 209.480 4.000 210.080 ;
-=======
         RECT 0.000 220.360 4.000 220.960 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[11]
   PIN la1_data_out[12]
@@ -1802,11 +1212,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 259.120 300.000 259.720 ;
-=======
         RECT 0.000 231.240 4.000 231.840 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[12]
   PIN la1_data_out[13]
@@ -1814,11 +1220,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 224.440 4.000 225.040 ;
-=======
         RECT 296.000 270.000 300.000 270.600 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[13]
   PIN la1_data_out[14]
@@ -1826,11 +1228,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 174.890 0.000 175.170 4.000 ;
-=======
         RECT 253.090 296.000 253.370 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[14]
   PIN la1_data_out[15]
@@ -1838,11 +1236,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 265.240 300.000 265.840 ;
-=======
         RECT 296.000 278.840 300.000 279.440 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[15]
   PIN la1_data_out[16]
@@ -1850,50 +1244,31 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 263.210 296.000 263.490 300.000 ;
-=======
         RECT 259.070 296.000 259.350 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[16]
   PIN la1_data_out[17]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 269.320 300.000 269.920 ;
-=======
       LAYER met2 ;
         RECT 149.590 0.000 149.870 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[17]
   PIN la1_data_out[18]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 275.440 300.000 276.040 ;
-=======
       LAYER met2 ;
         RECT 265.050 296.000 265.330 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[18]
   PIN la1_data_out[19]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 243.480 4.000 244.080 ;
-=======
       LAYER met2 ;
         RECT 271.030 296.000 271.310 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[19]
   PIN la1_data_out[1]
@@ -1901,11 +1276,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 156.440 4.000 157.040 ;
-=======
         RECT 0.000 187.720 4.000 188.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[1]
   PIN la1_data_out[20]
@@ -1913,24 +1284,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 191.450 0.000 191.730 4.000 ;
-=======
         RECT 185.930 0.000 186.210 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[20]
   PIN la1_data_out[21]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 276.090 296.000 276.370 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 263.880 4.000 264.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[21]
   PIN la1_data_out[22]
@@ -1938,11 +1300,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 263.200 4.000 263.800 ;
-=======
         RECT 296.000 284.960 300.000 285.560 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[22]
   PIN la1_data_out[23]
@@ -1950,76 +1308,47 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 267.960 4.000 268.560 ;
-=======
         RECT 296.000 289.720 300.000 290.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[23]
   PIN la1_data_out[24]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 278.850 296.000 279.130 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 274.760 4.000 275.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[24]
   PIN la1_data_out[25]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 287.680 300.000 288.280 ;
-=======
       LAYER met2 ;
         RECT 209.850 0.000 210.130 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[25]
   PIN la1_data_out[26]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 241.590 0.000 241.870 4.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 285.640 4.000 286.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[26]
   PIN la1_data_out[27]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 291.730 296.000 292.010 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 291.080 4.000 291.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[27]
   PIN la1_data_out[28]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 291.760 4.000 292.360 ;
-=======
       LAYER met2 ;
         RECT 282.990 296.000 283.270 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[28]
   PIN la1_data_out[29]
@@ -2027,11 +1356,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 294.950 296.000 295.230 300.000 ;
-=======
         RECT 269.650 0.000 269.930 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[29]
   PIN la1_data_out[2]
@@ -2039,50 +1364,31 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 242.120 300.000 242.720 ;
-=======
         RECT 296.000 246.880 300.000 247.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[2]
   PIN la1_data_out[30]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 295.840 300.000 296.440 ;
-=======
       LAYER met2 ;
         RECT 292.190 296.000 292.470 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[30]
   PIN la1_data_out[31]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 297.880 300.000 298.480 ;
-=======
       LAYER met2 ;
         RECT 293.570 0.000 293.850 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[31]
   PIN la1_data_out[3]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 244.160 300.000 244.760 ;
-=======
       LAYER met2 ;
         RECT 53.910 0.000 54.190 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[3]
   PIN la1_data_out[4]
@@ -2090,24 +1396,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 246.200 300.000 246.800 ;
-=======
         RECT 296.000 250.960 300.000 251.560 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[4]
   PIN la1_data_out[5]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 248.240 300.000 248.840 ;
-=======
       LAYER met2 ;
         RECT 238.370 296.000 238.650 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[5]
   PIN la1_data_out[6]
@@ -2115,11 +1412,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 253.000 300.000 253.600 ;
-=======
         RECT 296.000 257.760 300.000 258.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[6]
   PIN la1_data_out[7]
@@ -2127,11 +1420,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 91.630 0.000 91.910 4.000 ;
-=======
         RECT 77.830 0.000 78.110 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[7]
   PIN la1_data_out[8]
@@ -2139,24 +1428,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 108.190 0.000 108.470 4.000 ;
-=======
         RECT 101.750 0.000 102.030 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[8]
   PIN la1_data_out[9]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 124.750 0.000 125.030 4.000 ;
-=======
       LAYER met3 ;
         RECT 296.000 259.800 300.000 260.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_data_out[9]
   PIN la1_oenb[0]
@@ -2164,11 +1444,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 24.930 0.000 25.210 4.000 ;
-=======
         RECT 6.070 0.000 6.350 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[0]
   PIN la1_oenb[10]
@@ -2176,24 +1452,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 204.720 4.000 205.320 ;
-=======
         RECT 0.000 209.480 4.000 210.080 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[10]
   PIN la1_oenb[11]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 256.770 296.000 257.050 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 225.800 4.000 226.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[11]
   PIN la1_oenb[12]
@@ -2201,11 +1468,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 219.680 4.000 220.280 ;
-=======
         RECT 296.000 265.920 300.000 266.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[12]
   PIN la1_oenb[13]
@@ -2213,11 +1476,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 261.160 300.000 261.760 ;
-=======
         RECT 296.000 272.720 300.000 273.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[13]
   PIN la1_oenb[14]
@@ -2225,11 +1484,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 263.200 300.000 263.800 ;
-=======
         RECT 296.000 276.800 300.000 277.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[14]
   PIN la1_oenb[15]
@@ -2237,37 +1492,23 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 267.280 300.000 267.880 ;
-=======
         RECT 296.000 280.880 300.000 281.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[15]
   PIN la1_oenb[16]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 266.430 296.000 266.710 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 242.120 4.000 242.720 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[16]
   PIN la1_oenb[17]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 271.360 300.000 271.960 ;
-=======
       LAYER met2 ;
         RECT 262.290 296.000 262.570 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[17]
   PIN la1_oenb[18]
@@ -2275,24 +1516,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 277.480 300.000 278.080 ;
-=======
         RECT 296.000 282.920 300.000 283.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[18]
   PIN la1_oenb[19]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 248.240 4.000 248.840 ;
-=======
       LAYER met2 ;
         RECT 162.010 0.000 162.290 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[19]
   PIN la1_oenb[1]
@@ -2300,24 +1532,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 240.080 300.000 240.680 ;
-=======
         RECT 0.000 193.160 4.000 193.760 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[1]
   PIN la1_oenb[20]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met2 ;
-        RECT 272.870 296.000 273.150 300.000 ;
-=======
       LAYER met3 ;
         RECT 0.000 253.000 4.000 253.600 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[20]
   PIN la1_oenb[21]
@@ -2325,11 +1548,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 208.010 0.000 208.290 4.000 ;
-=======
         RECT 274.250 296.000 274.530 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[21]
   PIN la1_oenb[22]
@@ -2337,24 +1556,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 281.560 300.000 282.160 ;
-=======
         RECT 296.000 287.680 300.000 288.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[22]
   PIN la1_oenb[23]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 285.640 300.000 286.240 ;
-=======
       LAYER met2 ;
         RECT 280.230 296.000 280.510 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[23]
   PIN la1_oenb[24]
@@ -2362,11 +1572,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 272.720 4.000 273.320 ;
-=======
         RECT 0.000 280.200 4.000 280.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[24]
   PIN la1_oenb[25]
@@ -2374,24 +1580,15 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 277.480 4.000 278.080 ;
-=======
         RECT 296.000 293.800 300.000 294.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[25]
   PIN la1_oenb[26]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 282.240 4.000 282.840 ;
-=======
       LAYER met2 ;
         RECT 233.770 0.000 234.050 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[26]
   PIN la1_oenb[27]
@@ -2399,37 +1596,23 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 287.000 4.000 287.600 ;
-=======
         RECT 0.000 296.520 4.000 297.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[27]
   PIN la1_oenb[28]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 289.720 300.000 290.320 ;
-=======
       LAYER met2 ;
         RECT 286.210 296.000 286.490 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[28]
   PIN la1_oenb[29]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 291.760 300.000 292.360 ;
-=======
       LAYER met2 ;
         RECT 288.970 296.000 289.250 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[29]
   PIN la1_oenb[2]
@@ -2437,11 +1620,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 165.960 4.000 166.560 ;
-=======
         RECT 296.000 248.920 300.000 249.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[2]
   PIN la1_oenb[30]
@@ -2449,11 +1628,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 298.170 296.000 298.450 300.000 ;
-=======
         RECT 281.610 0.000 281.890 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[30]
   PIN la1_oenb[31]
@@ -2461,37 +1636,23 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 291.270 0.000 291.550 4.000 ;
-=======
         RECT 298.170 296.000 298.450 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[31]
   PIN la1_oenb[3]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 176.160 4.000 176.760 ;
-=======
       LAYER met2 ;
         RECT 229.170 296.000 229.450 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[3]
   PIN la1_oenb[4]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 180.920 4.000 181.520 ;
-=======
       LAYER met2 ;
         RECT 235.150 296.000 235.430 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[4]
   PIN la1_oenb[5]
@@ -2499,37 +1660,23 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 296.000 250.960 300.000 251.560 ;
-=======
         RECT 296.000 253.000 300.000 253.600 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[5]
   PIN la1_oenb[6]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 296.000 255.040 300.000 255.640 ;
-=======
       LAYER met2 ;
         RECT 65.870 0.000 66.150 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[6]
   PIN la1_oenb[7]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 185.680 4.000 186.280 ;
-=======
       LAYER met2 ;
         RECT 89.790 0.000 90.070 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[7]
   PIN la1_oenb[8]
@@ -2537,11 +1684,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 250.790 296.000 251.070 300.000 ;
-=======
         RECT 113.710 0.000 113.990 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[8]
   PIN la1_oenb[9]
@@ -2549,30 +1692,11 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 195.200 4.000 195.800 ;
-=======
         RECT 296.000 261.840 300.000 262.440 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END la1_oenb[9]
   PIN user_irq[0]
     DIRECTION OUTPUT TRISTATE ;
-<<<<<<< HEAD
-    USE SIGNAL ;
-    PORT
-      LAYER met2 ;
-        RECT 237.910 296.000 238.190 300.000 ;
-    END
-  END user_irq[0]
-  PIN user_irq[1]
-    DIRECTION OUTPUT TRISTATE ;
-    USE SIGNAL ;
-    PORT
-      LAYER met3 ;
-        RECT 0.000 161.200 4.000 161.800 ;
-    END
-=======
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2586,19 +1710,13 @@ MACRO zube_wrapped_project
       LAYER met2 ;
         RECT 226.410 296.000 226.690 300.000 ;
     END
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
   END user_irq[1]
   PIN user_irq[2]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
-<<<<<<< HEAD
-      LAYER met3 ;
-        RECT 0.000 170.720 4.000 171.320 ;
-=======
       LAYER met2 ;
         RECT 29.990 0.000 30.270 4.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END user_irq[2]
   PIN vccd1
@@ -2646,11 +1764,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 17.110 296.000 17.390 300.000 ;
-=======
         RECT 16.190 296.000 16.470 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_ack_o
   PIN wbs_adr_i[0]
@@ -2658,11 +1772,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 35.970 296.000 36.250 300.000 ;
-=======
         RECT 34.130 296.000 34.410 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[0]
   PIN wbs_adr_i[10]
@@ -2670,11 +1780,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 67.710 296.000 67.990 300.000 ;
-=======
         RECT 64.030 296.000 64.310 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[10]
   PIN wbs_adr_i[11]
@@ -2682,11 +1788,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 70.470 296.000 70.750 300.000 ;
-=======
         RECT 67.250 296.000 67.530 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[11]
   PIN wbs_adr_i[12]
@@ -2694,11 +1796,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 73.690 296.000 73.970 300.000 ;
-=======
         RECT 70.010 296.000 70.290 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[12]
   PIN wbs_adr_i[13]
@@ -2706,11 +1804,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 76.910 296.000 77.190 300.000 ;
-=======
         RECT 73.230 296.000 73.510 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[13]
   PIN wbs_adr_i[14]
@@ -2718,11 +1812,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 80.130 296.000 80.410 300.000 ;
-=======
         RECT 76.450 296.000 76.730 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[14]
   PIN wbs_adr_i[15]
@@ -2730,11 +1820,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 83.350 296.000 83.630 300.000 ;
-=======
         RECT 79.210 296.000 79.490 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[15]
   PIN wbs_adr_i[16]
@@ -2742,11 +1828,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 86.570 296.000 86.850 300.000 ;
-=======
         RECT 82.430 296.000 82.710 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[16]
   PIN wbs_adr_i[17]
@@ -2754,11 +1836,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 89.790 296.000 90.070 300.000 ;
-=======
         RECT 85.190 296.000 85.470 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[17]
   PIN wbs_adr_i[18]
@@ -2766,11 +1844,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 93.010 296.000 93.290 300.000 ;
-=======
         RECT 88.410 296.000 88.690 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[18]
   PIN wbs_adr_i[19]
@@ -2778,11 +1852,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 95.770 296.000 96.050 300.000 ;
-=======
         RECT 91.170 296.000 91.450 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[19]
   PIN wbs_adr_i[1]
@@ -2790,11 +1860,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 39.190 296.000 39.470 300.000 ;
-=======
         RECT 37.350 296.000 37.630 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[1]
   PIN wbs_adr_i[20]
@@ -2802,11 +1868,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 98.990 296.000 99.270 300.000 ;
-=======
         RECT 94.390 296.000 94.670 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[20]
   PIN wbs_adr_i[21]
@@ -2814,11 +1876,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 102.210 296.000 102.490 300.000 ;
-=======
         RECT 97.150 296.000 97.430 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[21]
   PIN wbs_adr_i[22]
@@ -2826,11 +1884,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 105.430 296.000 105.710 300.000 ;
-=======
         RECT 100.370 296.000 100.650 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[22]
   PIN wbs_adr_i[23]
@@ -2838,11 +1892,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 108.650 296.000 108.930 300.000 ;
-=======
         RECT 103.130 296.000 103.410 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[23]
   PIN wbs_adr_i[24]
@@ -2850,11 +1900,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 111.870 296.000 112.150 300.000 ;
-=======
         RECT 106.350 296.000 106.630 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[24]
   PIN wbs_adr_i[25]
@@ -2862,11 +1908,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 115.090 296.000 115.370 300.000 ;
-=======
         RECT 109.110 296.000 109.390 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[25]
   PIN wbs_adr_i[26]
@@ -2874,11 +1916,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 117.850 296.000 118.130 300.000 ;
-=======
         RECT 112.330 296.000 112.610 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[26]
   PIN wbs_adr_i[27]
@@ -2886,11 +1924,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 121.070 296.000 121.350 300.000 ;
-=======
         RECT 115.090 296.000 115.370 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[27]
   PIN wbs_adr_i[28]
@@ -2898,11 +1932,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 124.290 296.000 124.570 300.000 ;
-=======
         RECT 118.310 296.000 118.590 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[28]
   PIN wbs_adr_i[29]
@@ -2910,11 +1940,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 127.510 296.000 127.790 300.000 ;
-=======
         RECT 121.070 296.000 121.350 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[29]
   PIN wbs_adr_i[2]
@@ -2922,11 +1948,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 42.410 296.000 42.690 300.000 ;
-=======
         RECT 40.110 296.000 40.390 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[2]
   PIN wbs_adr_i[30]
@@ -2934,11 +1956,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 130.730 296.000 131.010 300.000 ;
-=======
         RECT 124.290 296.000 124.570 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[30]
   PIN wbs_adr_i[31]
@@ -2946,11 +1964,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 133.950 296.000 134.230 300.000 ;
-=======
         RECT 127.050 296.000 127.330 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[31]
   PIN wbs_adr_i[3]
@@ -2958,11 +1972,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 45.630 296.000 45.910 300.000 ;
-=======
         RECT 43.330 296.000 43.610 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[3]
   PIN wbs_adr_i[4]
@@ -2970,11 +1980,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 48.390 296.000 48.670 300.000 ;
-=======
         RECT 46.090 296.000 46.370 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[4]
   PIN wbs_adr_i[5]
@@ -2982,11 +1988,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 51.610 296.000 51.890 300.000 ;
-=======
         RECT 49.310 296.000 49.590 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[5]
   PIN wbs_adr_i[6]
@@ -2994,11 +1996,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 54.830 296.000 55.110 300.000 ;
-=======
         RECT 52.070 296.000 52.350 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[6]
   PIN wbs_adr_i[7]
@@ -3006,11 +2004,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 58.050 296.000 58.330 300.000 ;
-=======
         RECT 55.290 296.000 55.570 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[7]
   PIN wbs_adr_i[8]
@@ -3018,11 +2012,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 61.270 296.000 61.550 300.000 ;
-=======
         RECT 58.050 296.000 58.330 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[8]
   PIN wbs_adr_i[9]
@@ -3030,11 +2020,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 64.490 296.000 64.770 300.000 ;
-=======
         RECT 61.270 296.000 61.550 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_adr_i[9]
   PIN wbs_cyc_i
@@ -3042,11 +2028,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 10.670 296.000 10.950 300.000 ;
-=======
         RECT 10.210 296.000 10.490 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_cyc_i
   PIN wbs_dat_i[0]
@@ -3054,11 +2036,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 137.170 296.000 137.450 300.000 ;
-=======
         RECT 130.270 296.000 130.550 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[0]
   PIN wbs_dat_i[10]
@@ -3066,11 +2044,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 168.450 296.000 168.730 300.000 ;
-=======
         RECT 160.170 296.000 160.450 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[10]
   PIN wbs_dat_i[11]
@@ -3078,11 +2052,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 171.670 296.000 171.950 300.000 ;
-=======
         RECT 163.390 296.000 163.670 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[11]
   PIN wbs_dat_i[12]
@@ -3090,11 +2060,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 174.890 296.000 175.170 300.000 ;
-=======
         RECT 166.150 296.000 166.430 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[12]
   PIN wbs_dat_i[13]
@@ -3102,11 +2068,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 178.110 296.000 178.390 300.000 ;
-=======
         RECT 169.370 296.000 169.650 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[13]
   PIN wbs_dat_i[14]
@@ -3114,11 +2076,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 181.330 296.000 181.610 300.000 ;
-=======
         RECT 172.130 296.000 172.410 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[14]
   PIN wbs_dat_i[15]
@@ -3126,11 +2084,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 184.550 296.000 184.830 300.000 ;
-=======
         RECT 175.350 296.000 175.630 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[15]
   PIN wbs_dat_i[16]
@@ -3138,11 +2092,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 187.310 296.000 187.590 300.000 ;
-=======
         RECT 178.110 296.000 178.390 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[16]
   PIN wbs_dat_i[17]
@@ -3150,11 +2100,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 190.530 296.000 190.810 300.000 ;
-=======
         RECT 181.330 296.000 181.610 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[17]
   PIN wbs_dat_i[18]
@@ -3162,11 +2108,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 193.750 296.000 194.030 300.000 ;
-=======
         RECT 184.090 296.000 184.370 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[18]
   PIN wbs_dat_i[19]
@@ -3174,11 +2116,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 196.970 296.000 197.250 300.000 ;
-=======
         RECT 187.310 296.000 187.590 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[19]
   PIN wbs_dat_i[1]
@@ -3186,11 +2124,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 139.930 296.000 140.210 300.000 ;
-=======
         RECT 133.030 296.000 133.310 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[1]
   PIN wbs_dat_i[20]
@@ -3198,11 +2132,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 200.190 296.000 200.470 300.000 ;
-=======
         RECT 190.070 296.000 190.350 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[20]
   PIN wbs_dat_i[21]
@@ -3210,11 +2140,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 203.410 296.000 203.690 300.000 ;
-=======
         RECT 193.290 296.000 193.570 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[21]
   PIN wbs_dat_i[22]
@@ -3222,11 +2148,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 206.630 296.000 206.910 300.000 ;
-=======
         RECT 196.050 296.000 196.330 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[22]
   PIN wbs_dat_i[23]
@@ -3234,11 +2156,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 209.390 296.000 209.670 300.000 ;
-=======
         RECT 199.270 296.000 199.550 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[23]
   PIN wbs_dat_i[24]
@@ -3246,11 +2164,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 212.610 296.000 212.890 300.000 ;
-=======
         RECT 202.030 296.000 202.310 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[24]
   PIN wbs_dat_i[25]
@@ -3258,11 +2172,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 215.830 296.000 216.110 300.000 ;
-=======
         RECT 205.250 296.000 205.530 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[25]
   PIN wbs_dat_i[26]
@@ -3270,11 +2180,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 219.050 296.000 219.330 300.000 ;
-=======
         RECT 208.010 296.000 208.290 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[26]
   PIN wbs_dat_i[27]
@@ -3282,11 +2188,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 222.270 296.000 222.550 300.000 ;
-=======
         RECT 211.230 296.000 211.510 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[27]
   PIN wbs_dat_i[28]
@@ -3294,11 +2196,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 225.490 296.000 225.770 300.000 ;
-=======
         RECT 213.990 296.000 214.270 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[28]
   PIN wbs_dat_i[29]
@@ -3306,11 +2204,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 228.710 296.000 228.990 300.000 ;
-=======
         RECT 217.210 296.000 217.490 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[29]
   PIN wbs_dat_i[2]
@@ -3318,11 +2212,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 143.150 296.000 143.430 300.000 ;
-=======
         RECT 136.250 296.000 136.530 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[2]
   PIN wbs_dat_i[30]
@@ -3330,11 +2220,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 231.930 296.000 232.210 300.000 ;
-=======
         RECT 219.970 296.000 220.250 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[30]
   PIN wbs_dat_i[31]
@@ -3342,11 +2228,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 234.690 296.000 234.970 300.000 ;
-=======
         RECT 223.190 296.000 223.470 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[31]
   PIN wbs_dat_i[3]
@@ -3354,11 +2236,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 146.370 296.000 146.650 300.000 ;
-=======
         RECT 139.010 296.000 139.290 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[3]
   PIN wbs_dat_i[4]
@@ -3366,11 +2244,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 149.590 296.000 149.870 300.000 ;
-=======
         RECT 142.230 296.000 142.510 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[4]
   PIN wbs_dat_i[5]
@@ -3378,11 +2252,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 152.810 296.000 153.090 300.000 ;
-=======
         RECT 144.990 296.000 145.270 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[5]
   PIN wbs_dat_i[6]
@@ -3390,11 +2260,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 156.030 296.000 156.310 300.000 ;
-=======
         RECT 148.210 296.000 148.490 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[6]
   PIN wbs_dat_i[7]
@@ -3402,11 +2268,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 159.250 296.000 159.530 300.000 ;
-=======
         RECT 151.430 296.000 151.710 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[7]
   PIN wbs_dat_i[8]
@@ -3414,11 +2276,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 162.470 296.000 162.750 300.000 ;
-=======
         RECT 154.190 296.000 154.470 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[8]
   PIN wbs_dat_i[9]
@@ -3426,11 +2284,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 165.230 296.000 165.510 300.000 ;
-=======
         RECT 157.410 296.000 157.690 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_i[9]
   PIN wbs_dat_o[0]
@@ -3438,11 +2292,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 2.080 4.000 2.680 ;
-=======
         RECT 0.000 2.760 4.000 3.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[0]
   PIN wbs_dat_o[10]
@@ -3450,11 +2300,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 50.360 4.000 50.960 ;
-=======
         RECT 0.000 57.160 4.000 57.760 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[10]
   PIN wbs_dat_o[11]
@@ -3462,11 +2308,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 55.120 4.000 55.720 ;
-=======
         RECT 0.000 62.600 4.000 63.200 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[11]
   PIN wbs_dat_o[12]
@@ -3474,11 +2316,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 59.880 4.000 60.480 ;
-=======
         RECT 0.000 68.040 4.000 68.640 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[12]
   PIN wbs_dat_o[13]
@@ -3486,7 +2324,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT 0.000 64.640 4.000 65.240 ;
+        RECT 0.000 73.480 4.000 74.080 ;
     END
   END wbs_dat_o[13]
   PIN wbs_dat_o[14]
@@ -3494,11 +2332,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 69.400 4.000 70.000 ;
-=======
         RECT 0.000 78.920 4.000 79.520 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[14]
   PIN wbs_dat_o[15]
@@ -3506,11 +2340,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 74.160 4.000 74.760 ;
-=======
         RECT 0.000 84.360 4.000 84.960 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[15]
   PIN wbs_dat_o[16]
@@ -3518,11 +2348,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 78.920 4.000 79.520 ;
-=======
         RECT 0.000 89.800 4.000 90.400 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[16]
   PIN wbs_dat_o[17]
@@ -3530,11 +2356,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 83.680 4.000 84.280 ;
-=======
         RECT 0.000 95.240 4.000 95.840 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[17]
   PIN wbs_dat_o[18]
@@ -3542,11 +2364,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 89.120 4.000 89.720 ;
-=======
         RECT 0.000 100.680 4.000 101.280 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[18]
   PIN wbs_dat_o[19]
@@ -3554,11 +2372,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 93.880 4.000 94.480 ;
-=======
         RECT 0.000 106.120 4.000 106.720 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[19]
   PIN wbs_dat_o[1]
@@ -3566,11 +2380,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 6.840 4.000 7.440 ;
-=======
         RECT 0.000 8.200 4.000 8.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[1]
   PIN wbs_dat_o[20]
@@ -3578,11 +2388,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 98.640 4.000 99.240 ;
-=======
         RECT 0.000 111.560 4.000 112.160 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[20]
   PIN wbs_dat_o[21]
@@ -3590,11 +2396,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 103.400 4.000 104.000 ;
-=======
         RECT 0.000 117.000 4.000 117.600 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[21]
   PIN wbs_dat_o[22]
@@ -3602,11 +2404,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 108.160 4.000 108.760 ;
-=======
         RECT 0.000 122.440 4.000 123.040 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[22]
   PIN wbs_dat_o[23]
@@ -3614,11 +2412,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 112.920 4.000 113.520 ;
-=======
         RECT 0.000 127.880 4.000 128.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[23]
   PIN wbs_dat_o[24]
@@ -3626,11 +2420,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 117.680 4.000 118.280 ;
-=======
         RECT 0.000 133.320 4.000 133.920 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[24]
   PIN wbs_dat_o[25]
@@ -3638,11 +2428,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 122.440 4.000 123.040 ;
-=======
         RECT 0.000 138.760 4.000 139.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[25]
   PIN wbs_dat_o[26]
@@ -3650,11 +2436,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 127.200 4.000 127.800 ;
-=======
         RECT 0.000 144.200 4.000 144.800 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[26]
   PIN wbs_dat_o[27]
@@ -3662,11 +2444,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 132.640 4.000 133.240 ;
-=======
         RECT 0.000 149.640 4.000 150.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[27]
   PIN wbs_dat_o[28]
@@ -3674,11 +2452,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 137.400 4.000 138.000 ;
-=======
         RECT 0.000 155.080 4.000 155.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[28]
   PIN wbs_dat_o[29]
@@ -3686,11 +2460,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 142.160 4.000 142.760 ;
-=======
         RECT 0.000 160.520 4.000 161.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[29]
   PIN wbs_dat_o[2]
@@ -3698,11 +2468,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 11.600 4.000 12.200 ;
-=======
         RECT 0.000 13.640 4.000 14.240 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[2]
   PIN wbs_dat_o[30]
@@ -3710,11 +2476,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 146.920 4.000 147.520 ;
-=======
         RECT 0.000 165.960 4.000 166.560 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[30]
   PIN wbs_dat_o[31]
@@ -3722,11 +2484,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 151.680 4.000 152.280 ;
-=======
         RECT 0.000 171.400 4.000 172.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[31]
   PIN wbs_dat_o[3]
@@ -3734,11 +2492,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 16.360 4.000 16.960 ;
-=======
         RECT 0.000 19.080 4.000 19.680 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[3]
   PIN wbs_dat_o[4]
@@ -3746,11 +2500,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 21.120 4.000 21.720 ;
-=======
         RECT 0.000 24.520 4.000 25.120 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[4]
   PIN wbs_dat_o[5]
@@ -3758,11 +2508,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 25.880 4.000 26.480 ;
-=======
         RECT 0.000 29.960 4.000 30.560 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[5]
   PIN wbs_dat_o[6]
@@ -3770,11 +2516,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 30.640 4.000 31.240 ;
-=======
         RECT 0.000 35.400 4.000 36.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[6]
   PIN wbs_dat_o[7]
@@ -3782,11 +2524,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 35.400 4.000 36.000 ;
-=======
         RECT 0.000 40.840 4.000 41.440 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[7]
   PIN wbs_dat_o[8]
@@ -3794,11 +2532,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 40.160 4.000 40.760 ;
-=======
         RECT 0.000 46.280 4.000 46.880 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[8]
   PIN wbs_dat_o[9]
@@ -3806,11 +2540,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-<<<<<<< HEAD
-        RECT 0.000 45.600 4.000 46.200 ;
-=======
         RECT 0.000 51.720 4.000 52.320 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_dat_o[9]
   PIN wbs_sel_i[0]
@@ -3818,11 +2548,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 23.550 296.000 23.830 300.000 ;
-=======
         RECT 22.170 296.000 22.450 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_sel_i[0]
   PIN wbs_sel_i[1]
@@ -3830,11 +2556,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 26.310 296.000 26.590 300.000 ;
-=======
         RECT 25.390 296.000 25.670 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_sel_i[1]
   PIN wbs_sel_i[2]
@@ -3842,11 +2564,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 29.530 296.000 29.810 300.000 ;
-=======
         RECT 28.150 296.000 28.430 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_sel_i[2]
   PIN wbs_sel_i[3]
@@ -3854,11 +2572,7 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 32.750 296.000 33.030 300.000 ;
-=======
         RECT 31.370 296.000 31.650 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_sel_i[3]
   PIN wbs_stb_i
@@ -3874,189 +2588,11 @@ MACRO zube_wrapped_project
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-<<<<<<< HEAD
-        RECT 13.890 296.000 14.170 300.000 ;
-=======
         RECT 13.430 296.000 13.710 300.000 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
     END
   END wbs_we_i
   OBS
       LAYER li1 ;
-<<<<<<< HEAD
-        RECT 5.520 10.795 296.095 288.405 ;
-      LAYER met1 ;
-        RECT 1.450 6.500 296.155 289.300 ;
-      LAYER met2 ;
-        RECT 2.030 295.720 3.950 298.365 ;
-        RECT 4.790 295.720 7.170 298.365 ;
-        RECT 8.010 295.720 10.390 298.365 ;
-        RECT 11.230 295.720 13.610 298.365 ;
-        RECT 14.450 295.720 16.830 298.365 ;
-        RECT 17.670 295.720 20.050 298.365 ;
-        RECT 20.890 295.720 23.270 298.365 ;
-        RECT 24.110 295.720 26.030 298.365 ;
-        RECT 26.870 295.720 29.250 298.365 ;
-        RECT 30.090 295.720 32.470 298.365 ;
-        RECT 33.310 295.720 35.690 298.365 ;
-        RECT 36.530 295.720 38.910 298.365 ;
-        RECT 39.750 295.720 42.130 298.365 ;
-        RECT 42.970 295.720 45.350 298.365 ;
-        RECT 46.190 295.720 48.110 298.365 ;
-        RECT 48.950 295.720 51.330 298.365 ;
-        RECT 52.170 295.720 54.550 298.365 ;
-        RECT 55.390 295.720 57.770 298.365 ;
-        RECT 58.610 295.720 60.990 298.365 ;
-        RECT 61.830 295.720 64.210 298.365 ;
-        RECT 65.050 295.720 67.430 298.365 ;
-        RECT 68.270 295.720 70.190 298.365 ;
-        RECT 71.030 295.720 73.410 298.365 ;
-        RECT 74.250 295.720 76.630 298.365 ;
-        RECT 77.470 295.720 79.850 298.365 ;
-        RECT 80.690 295.720 83.070 298.365 ;
-        RECT 83.910 295.720 86.290 298.365 ;
-        RECT 87.130 295.720 89.510 298.365 ;
-        RECT 90.350 295.720 92.730 298.365 ;
-        RECT 93.570 295.720 95.490 298.365 ;
-        RECT 96.330 295.720 98.710 298.365 ;
-        RECT 99.550 295.720 101.930 298.365 ;
-        RECT 102.770 295.720 105.150 298.365 ;
-        RECT 105.990 295.720 108.370 298.365 ;
-        RECT 109.210 295.720 111.590 298.365 ;
-        RECT 112.430 295.720 114.810 298.365 ;
-        RECT 115.650 295.720 117.570 298.365 ;
-        RECT 118.410 295.720 120.790 298.365 ;
-        RECT 121.630 295.720 124.010 298.365 ;
-        RECT 124.850 295.720 127.230 298.365 ;
-        RECT 128.070 295.720 130.450 298.365 ;
-        RECT 131.290 295.720 133.670 298.365 ;
-        RECT 134.510 295.720 136.890 298.365 ;
-        RECT 137.730 295.720 139.650 298.365 ;
-        RECT 140.490 295.720 142.870 298.365 ;
-        RECT 143.710 295.720 146.090 298.365 ;
-        RECT 146.930 295.720 149.310 298.365 ;
-        RECT 150.150 295.720 152.530 298.365 ;
-        RECT 153.370 295.720 155.750 298.365 ;
-        RECT 156.590 295.720 158.970 298.365 ;
-        RECT 159.810 295.720 162.190 298.365 ;
-        RECT 163.030 295.720 164.950 298.365 ;
-        RECT 165.790 295.720 168.170 298.365 ;
-        RECT 169.010 295.720 171.390 298.365 ;
-        RECT 172.230 295.720 174.610 298.365 ;
-        RECT 175.450 295.720 177.830 298.365 ;
-        RECT 178.670 295.720 181.050 298.365 ;
-        RECT 181.890 295.720 184.270 298.365 ;
-        RECT 185.110 295.720 187.030 298.365 ;
-        RECT 187.870 295.720 190.250 298.365 ;
-        RECT 191.090 295.720 193.470 298.365 ;
-        RECT 194.310 295.720 196.690 298.365 ;
-        RECT 197.530 295.720 199.910 298.365 ;
-        RECT 200.750 295.720 203.130 298.365 ;
-        RECT 203.970 295.720 206.350 298.365 ;
-        RECT 207.190 295.720 209.110 298.365 ;
-        RECT 209.950 295.720 212.330 298.365 ;
-        RECT 213.170 295.720 215.550 298.365 ;
-        RECT 216.390 295.720 218.770 298.365 ;
-        RECT 219.610 295.720 221.990 298.365 ;
-        RECT 222.830 295.720 225.210 298.365 ;
-        RECT 226.050 295.720 228.430 298.365 ;
-        RECT 229.270 295.720 231.650 298.365 ;
-        RECT 232.490 295.720 234.410 298.365 ;
-        RECT 235.250 295.720 237.630 298.365 ;
-        RECT 238.470 295.720 240.850 298.365 ;
-        RECT 241.690 295.720 244.070 298.365 ;
-        RECT 244.910 295.720 247.290 298.365 ;
-        RECT 248.130 295.720 250.510 298.365 ;
-        RECT 251.350 295.720 253.730 298.365 ;
-        RECT 254.570 295.720 256.490 298.365 ;
-        RECT 257.330 295.720 259.710 298.365 ;
-        RECT 260.550 295.720 262.930 298.365 ;
-        RECT 263.770 295.720 266.150 298.365 ;
-        RECT 266.990 295.720 269.370 298.365 ;
-        RECT 270.210 295.720 272.590 298.365 ;
-        RECT 273.430 295.720 275.810 298.365 ;
-        RECT 276.650 295.720 278.570 298.365 ;
-        RECT 279.410 295.720 281.790 298.365 ;
-        RECT 282.630 295.720 285.010 298.365 ;
-        RECT 285.850 295.720 288.230 298.365 ;
-        RECT 289.070 295.720 291.450 298.365 ;
-        RECT 292.290 295.720 294.670 298.365 ;
-        RECT 1.480 4.280 295.220 295.720 ;
-        RECT 1.480 0.270 8.090 4.280 ;
-        RECT 8.930 0.270 24.650 4.280 ;
-        RECT 25.490 0.270 41.210 4.280 ;
-        RECT 42.050 0.270 57.770 4.280 ;
-        RECT 58.610 0.270 74.330 4.280 ;
-        RECT 75.170 0.270 91.350 4.280 ;
-        RECT 92.190 0.270 107.910 4.280 ;
-        RECT 108.750 0.270 124.470 4.280 ;
-        RECT 125.310 0.270 141.030 4.280 ;
-        RECT 141.870 0.270 158.050 4.280 ;
-        RECT 158.890 0.270 174.610 4.280 ;
-        RECT 175.450 0.270 191.170 4.280 ;
-        RECT 192.010 0.270 207.730 4.280 ;
-        RECT 208.570 0.270 224.290 4.280 ;
-        RECT 225.130 0.270 241.310 4.280 ;
-        RECT 242.150 0.270 257.870 4.280 ;
-        RECT 258.710 0.270 274.430 4.280 ;
-        RECT 275.270 0.270 290.990 4.280 ;
-        RECT 291.830 0.270 295.220 4.280 ;
-      LAYER met3 ;
-        RECT 4.000 297.520 295.600 298.345 ;
-        RECT 4.400 297.480 295.600 297.520 ;
-        RECT 4.400 296.840 296.000 297.480 ;
-        RECT 4.400 296.120 295.600 296.840 ;
-        RECT 4.000 295.440 295.600 296.120 ;
-        RECT 4.000 294.800 296.000 295.440 ;
-        RECT 4.000 293.400 295.600 294.800 ;
-        RECT 4.000 292.760 296.000 293.400 ;
-        RECT 4.400 291.360 295.600 292.760 ;
-        RECT 4.000 290.720 296.000 291.360 ;
-        RECT 4.000 289.320 295.600 290.720 ;
-        RECT 4.000 288.680 296.000 289.320 ;
-        RECT 4.000 288.000 295.600 288.680 ;
-        RECT 4.400 287.280 295.600 288.000 ;
-        RECT 4.400 286.640 296.000 287.280 ;
-        RECT 4.400 286.600 295.600 286.640 ;
-        RECT 4.000 285.240 295.600 286.600 ;
-        RECT 4.000 284.600 296.000 285.240 ;
-        RECT 4.000 283.240 295.600 284.600 ;
-        RECT 4.400 283.200 295.600 283.240 ;
-        RECT 4.400 282.560 296.000 283.200 ;
-        RECT 4.400 281.840 295.600 282.560 ;
-        RECT 4.000 281.160 295.600 281.840 ;
-        RECT 4.000 280.520 296.000 281.160 ;
-        RECT 4.000 279.120 295.600 280.520 ;
-        RECT 4.000 278.480 296.000 279.120 ;
-        RECT 4.400 277.080 295.600 278.480 ;
-        RECT 4.000 276.440 296.000 277.080 ;
-        RECT 4.000 275.040 295.600 276.440 ;
-        RECT 4.000 274.400 296.000 275.040 ;
-        RECT 4.000 273.720 295.600 274.400 ;
-        RECT 4.400 273.000 295.600 273.720 ;
-        RECT 4.400 272.360 296.000 273.000 ;
-        RECT 4.400 272.320 295.600 272.360 ;
-        RECT 4.000 270.960 295.600 272.320 ;
-        RECT 4.000 270.320 296.000 270.960 ;
-        RECT 4.000 268.960 295.600 270.320 ;
-        RECT 4.400 268.920 295.600 268.960 ;
-        RECT 4.400 268.280 296.000 268.920 ;
-        RECT 4.400 267.560 295.600 268.280 ;
-        RECT 4.000 266.880 295.600 267.560 ;
-        RECT 4.000 266.240 296.000 266.880 ;
-        RECT 4.000 264.840 295.600 266.240 ;
-        RECT 4.000 264.200 296.000 264.840 ;
-        RECT 4.400 262.800 295.600 264.200 ;
-        RECT 4.000 262.160 296.000 262.800 ;
-        RECT 4.000 260.760 295.600 262.160 ;
-        RECT 4.000 260.120 296.000 260.760 ;
-        RECT 4.000 258.760 295.600 260.120 ;
-        RECT 4.400 258.720 295.600 258.760 ;
-        RECT 4.400 258.080 296.000 258.720 ;
-        RECT 4.400 257.360 295.600 258.080 ;
-        RECT 4.000 256.680 295.600 257.360 ;
-        RECT 4.000 256.040 296.000 256.680 ;
-=======
         RECT 5.520 10.795 296.555 288.405 ;
       LAYER met1 ;
         RECT 1.450 10.240 296.615 289.640 ;
@@ -4229,166 +2765,11 @@ MACRO zube_wrapped_project
         RECT 4.400 258.040 295.600 258.760 ;
         RECT 4.000 257.360 295.600 258.040 ;
         RECT 4.000 256.040 296.000 257.360 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
         RECT 4.000 254.640 295.600 256.040 ;
         RECT 4.000 254.000 296.000 254.640 ;
         RECT 4.400 252.600 295.600 254.000 ;
         RECT 4.000 251.960 296.000 252.600 ;
         RECT 4.000 250.560 295.600 251.960 ;
-<<<<<<< HEAD
-        RECT 4.000 249.240 296.000 250.560 ;
-        RECT 4.400 247.840 295.600 249.240 ;
-        RECT 4.000 247.200 296.000 247.840 ;
-        RECT 4.000 245.800 295.600 247.200 ;
-        RECT 4.000 245.160 296.000 245.800 ;
-        RECT 4.000 244.480 295.600 245.160 ;
-        RECT 4.400 243.760 295.600 244.480 ;
-        RECT 4.400 243.120 296.000 243.760 ;
-        RECT 4.400 243.080 295.600 243.120 ;
-        RECT 4.000 241.720 295.600 243.080 ;
-        RECT 4.000 241.080 296.000 241.720 ;
-        RECT 4.000 239.720 295.600 241.080 ;
-        RECT 4.400 239.680 295.600 239.720 ;
-        RECT 4.400 239.040 296.000 239.680 ;
-        RECT 4.400 238.320 295.600 239.040 ;
-        RECT 4.000 237.640 295.600 238.320 ;
-        RECT 4.000 237.000 296.000 237.640 ;
-        RECT 4.000 235.600 295.600 237.000 ;
-        RECT 4.000 234.960 296.000 235.600 ;
-        RECT 4.400 233.560 295.600 234.960 ;
-        RECT 4.000 232.920 296.000 233.560 ;
-        RECT 4.000 231.520 295.600 232.920 ;
-        RECT 4.000 230.880 296.000 231.520 ;
-        RECT 4.000 230.200 295.600 230.880 ;
-        RECT 4.400 229.480 295.600 230.200 ;
-        RECT 4.400 228.840 296.000 229.480 ;
-        RECT 4.400 228.800 295.600 228.840 ;
-        RECT 4.000 227.440 295.600 228.800 ;
-        RECT 4.000 226.800 296.000 227.440 ;
-        RECT 4.000 225.440 295.600 226.800 ;
-        RECT 4.400 225.400 295.600 225.440 ;
-        RECT 4.400 224.760 296.000 225.400 ;
-        RECT 4.400 224.040 295.600 224.760 ;
-        RECT 4.000 223.360 295.600 224.040 ;
-        RECT 4.000 222.720 296.000 223.360 ;
-        RECT 4.000 221.320 295.600 222.720 ;
-        RECT 4.000 220.680 296.000 221.320 ;
-        RECT 4.400 219.280 295.600 220.680 ;
-        RECT 4.000 218.640 296.000 219.280 ;
-        RECT 4.000 217.240 295.600 218.640 ;
-        RECT 4.000 216.600 296.000 217.240 ;
-        RECT 4.000 215.240 295.600 216.600 ;
-        RECT 4.400 215.200 295.600 215.240 ;
-        RECT 4.400 214.560 296.000 215.200 ;
-        RECT 4.400 213.840 295.600 214.560 ;
-        RECT 4.000 213.160 295.600 213.840 ;
-        RECT 4.000 212.520 296.000 213.160 ;
-        RECT 4.000 211.120 295.600 212.520 ;
-        RECT 4.000 210.480 296.000 211.120 ;
-        RECT 4.400 209.080 295.600 210.480 ;
-        RECT 4.000 208.440 296.000 209.080 ;
-        RECT 4.000 207.040 295.600 208.440 ;
-        RECT 4.000 206.400 296.000 207.040 ;
-        RECT 4.000 205.720 295.600 206.400 ;
-        RECT 4.400 205.000 295.600 205.720 ;
-        RECT 4.400 204.360 296.000 205.000 ;
-        RECT 4.400 204.320 295.600 204.360 ;
-        RECT 4.000 202.960 295.600 204.320 ;
-        RECT 4.000 202.320 296.000 202.960 ;
-        RECT 4.000 200.960 295.600 202.320 ;
-        RECT 4.400 200.920 295.600 200.960 ;
-        RECT 4.400 199.600 296.000 200.920 ;
-        RECT 4.400 199.560 295.600 199.600 ;
-        RECT 4.000 198.200 295.600 199.560 ;
-        RECT 4.000 197.560 296.000 198.200 ;
-        RECT 4.000 196.200 295.600 197.560 ;
-        RECT 4.400 196.160 295.600 196.200 ;
-        RECT 4.400 195.520 296.000 196.160 ;
-        RECT 4.400 194.800 295.600 195.520 ;
-        RECT 4.000 194.120 295.600 194.800 ;
-        RECT 4.000 193.480 296.000 194.120 ;
-        RECT 4.000 192.080 295.600 193.480 ;
-        RECT 4.000 191.440 296.000 192.080 ;
-        RECT 4.400 190.040 295.600 191.440 ;
-        RECT 4.000 189.400 296.000 190.040 ;
-        RECT 4.000 188.000 295.600 189.400 ;
-        RECT 4.000 187.360 296.000 188.000 ;
-        RECT 4.000 186.680 295.600 187.360 ;
-        RECT 4.400 185.960 295.600 186.680 ;
-        RECT 4.400 185.320 296.000 185.960 ;
-        RECT 4.400 185.280 295.600 185.320 ;
-        RECT 4.000 183.920 295.600 185.280 ;
-        RECT 4.000 183.280 296.000 183.920 ;
-        RECT 4.000 181.920 295.600 183.280 ;
-        RECT 4.400 181.880 295.600 181.920 ;
-        RECT 4.400 181.240 296.000 181.880 ;
-        RECT 4.400 180.520 295.600 181.240 ;
-        RECT 4.000 179.840 295.600 180.520 ;
-        RECT 4.000 179.200 296.000 179.840 ;
-        RECT 4.000 177.800 295.600 179.200 ;
-        RECT 4.000 177.160 296.000 177.800 ;
-        RECT 4.400 175.760 295.600 177.160 ;
-        RECT 4.000 175.120 296.000 175.760 ;
-        RECT 4.000 173.720 295.600 175.120 ;
-        RECT 4.000 173.080 296.000 173.720 ;
-        RECT 4.000 171.720 295.600 173.080 ;
-        RECT 4.400 171.680 295.600 171.720 ;
-        RECT 4.400 171.040 296.000 171.680 ;
-        RECT 4.400 170.320 295.600 171.040 ;
-        RECT 4.000 169.640 295.600 170.320 ;
-        RECT 4.000 169.000 296.000 169.640 ;
-        RECT 4.000 167.600 295.600 169.000 ;
-        RECT 4.000 166.960 296.000 167.600 ;
-        RECT 4.400 165.560 295.600 166.960 ;
-        RECT 4.000 164.920 296.000 165.560 ;
-        RECT 4.000 163.520 295.600 164.920 ;
-        RECT 4.000 162.880 296.000 163.520 ;
-        RECT 4.000 162.200 295.600 162.880 ;
-        RECT 4.400 161.480 295.600 162.200 ;
-        RECT 4.400 160.840 296.000 161.480 ;
-        RECT 4.400 160.800 295.600 160.840 ;
-        RECT 4.000 159.440 295.600 160.800 ;
-        RECT 4.000 158.800 296.000 159.440 ;
-        RECT 4.000 157.440 295.600 158.800 ;
-        RECT 4.400 157.400 295.600 157.440 ;
-        RECT 4.400 156.760 296.000 157.400 ;
-        RECT 4.400 156.040 295.600 156.760 ;
-        RECT 4.000 155.360 295.600 156.040 ;
-        RECT 4.000 154.720 296.000 155.360 ;
-        RECT 4.000 153.320 295.600 154.720 ;
-        RECT 4.000 152.680 296.000 153.320 ;
-        RECT 4.400 151.280 295.600 152.680 ;
-        RECT 4.000 149.960 296.000 151.280 ;
-        RECT 4.000 148.560 295.600 149.960 ;
-        RECT 4.000 147.920 296.000 148.560 ;
-        RECT 4.400 146.520 295.600 147.920 ;
-        RECT 4.000 145.880 296.000 146.520 ;
-        RECT 4.000 144.480 295.600 145.880 ;
-        RECT 4.000 143.840 296.000 144.480 ;
-        RECT 4.000 143.160 295.600 143.840 ;
-        RECT 4.400 142.440 295.600 143.160 ;
-        RECT 4.400 141.800 296.000 142.440 ;
-        RECT 4.400 141.760 295.600 141.800 ;
-        RECT 4.000 140.400 295.600 141.760 ;
-        RECT 4.000 139.760 296.000 140.400 ;
-        RECT 4.000 138.400 295.600 139.760 ;
-        RECT 4.400 138.360 295.600 138.400 ;
-        RECT 4.400 137.720 296.000 138.360 ;
-        RECT 4.400 137.000 295.600 137.720 ;
-        RECT 4.000 136.320 295.600 137.000 ;
-        RECT 4.000 135.680 296.000 136.320 ;
-        RECT 4.000 134.280 295.600 135.680 ;
-        RECT 4.000 133.640 296.000 134.280 ;
-        RECT 4.400 132.240 295.600 133.640 ;
-        RECT 4.000 131.600 296.000 132.240 ;
-        RECT 4.000 130.200 295.600 131.600 ;
-        RECT 4.000 129.560 296.000 130.200 ;
-        RECT 4.000 128.200 295.600 129.560 ;
-        RECT 4.400 128.160 295.600 128.200 ;
-        RECT 4.400 127.520 296.000 128.160 ;
-        RECT 4.400 126.800 295.600 127.520 ;
-        RECT 4.000 126.120 295.600 126.800 ;
-=======
         RECT 4.000 249.920 296.000 250.560 ;
         RECT 4.000 248.560 295.600 249.920 ;
         RECT 4.400 248.520 295.600 248.560 ;
@@ -4537,7 +2918,6 @@ MACRO zube_wrapped_project
         RECT 4.400 127.520 296.000 128.840 ;
         RECT 4.400 127.480 295.600 127.520 ;
         RECT 4.000 126.120 295.600 127.480 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
         RECT 4.000 125.480 296.000 126.120 ;
         RECT 4.000 124.080 295.600 125.480 ;
         RECT 4.000 123.440 296.000 124.080 ;
@@ -4545,155 +2925,6 @@ MACRO zube_wrapped_project
         RECT 4.000 121.400 296.000 122.040 ;
         RECT 4.000 120.000 295.600 121.400 ;
         RECT 4.000 119.360 296.000 120.000 ;
-<<<<<<< HEAD
-        RECT 4.000 118.680 295.600 119.360 ;
-        RECT 4.400 117.960 295.600 118.680 ;
-        RECT 4.400 117.320 296.000 117.960 ;
-        RECT 4.400 117.280 295.600 117.320 ;
-        RECT 4.000 115.920 295.600 117.280 ;
-        RECT 4.000 115.280 296.000 115.920 ;
-        RECT 4.000 113.920 295.600 115.280 ;
-        RECT 4.400 113.880 295.600 113.920 ;
-        RECT 4.400 113.240 296.000 113.880 ;
-        RECT 4.400 112.520 295.600 113.240 ;
-        RECT 4.000 111.840 295.600 112.520 ;
-        RECT 4.000 111.200 296.000 111.840 ;
-        RECT 4.000 109.800 295.600 111.200 ;
-        RECT 4.000 109.160 296.000 109.800 ;
-        RECT 4.400 107.760 295.600 109.160 ;
-        RECT 4.000 107.120 296.000 107.760 ;
-        RECT 4.000 105.720 295.600 107.120 ;
-        RECT 4.000 105.080 296.000 105.720 ;
-        RECT 4.000 104.400 295.600 105.080 ;
-        RECT 4.400 103.680 295.600 104.400 ;
-        RECT 4.400 103.040 296.000 103.680 ;
-        RECT 4.400 103.000 295.600 103.040 ;
-        RECT 4.000 101.640 295.600 103.000 ;
-        RECT 4.000 100.320 296.000 101.640 ;
-        RECT 4.000 99.640 295.600 100.320 ;
-        RECT 4.400 98.920 295.600 99.640 ;
-        RECT 4.400 98.280 296.000 98.920 ;
-        RECT 4.400 98.240 295.600 98.280 ;
-        RECT 4.000 96.880 295.600 98.240 ;
-        RECT 4.000 96.240 296.000 96.880 ;
-        RECT 4.000 94.880 295.600 96.240 ;
-        RECT 4.400 94.840 295.600 94.880 ;
-        RECT 4.400 94.200 296.000 94.840 ;
-        RECT 4.400 93.480 295.600 94.200 ;
-        RECT 4.000 92.800 295.600 93.480 ;
-        RECT 4.000 92.160 296.000 92.800 ;
-        RECT 4.000 90.760 295.600 92.160 ;
-        RECT 4.000 90.120 296.000 90.760 ;
-        RECT 4.400 88.720 295.600 90.120 ;
-        RECT 4.000 88.080 296.000 88.720 ;
-        RECT 4.000 86.680 295.600 88.080 ;
-        RECT 4.000 86.040 296.000 86.680 ;
-        RECT 4.000 84.680 295.600 86.040 ;
-        RECT 4.400 84.640 295.600 84.680 ;
-        RECT 4.400 84.000 296.000 84.640 ;
-        RECT 4.400 83.280 295.600 84.000 ;
-        RECT 4.000 82.600 295.600 83.280 ;
-        RECT 4.000 81.960 296.000 82.600 ;
-        RECT 4.000 80.560 295.600 81.960 ;
-        RECT 4.000 79.920 296.000 80.560 ;
-        RECT 4.400 78.520 295.600 79.920 ;
-        RECT 4.000 77.880 296.000 78.520 ;
-        RECT 4.000 76.480 295.600 77.880 ;
-        RECT 4.000 75.840 296.000 76.480 ;
-        RECT 4.000 75.160 295.600 75.840 ;
-        RECT 4.400 74.440 295.600 75.160 ;
-        RECT 4.400 73.800 296.000 74.440 ;
-        RECT 4.400 73.760 295.600 73.800 ;
-        RECT 4.000 72.400 295.600 73.760 ;
-        RECT 4.000 71.760 296.000 72.400 ;
-        RECT 4.000 70.400 295.600 71.760 ;
-        RECT 4.400 70.360 295.600 70.400 ;
-        RECT 4.400 69.720 296.000 70.360 ;
-        RECT 4.400 69.000 295.600 69.720 ;
-        RECT 4.000 68.320 295.600 69.000 ;
-        RECT 4.000 67.680 296.000 68.320 ;
-        RECT 4.000 66.280 295.600 67.680 ;
-        RECT 4.000 65.640 296.000 66.280 ;
-        RECT 4.400 64.240 295.600 65.640 ;
-        RECT 4.000 63.600 296.000 64.240 ;
-        RECT 4.000 62.200 295.600 63.600 ;
-        RECT 4.000 61.560 296.000 62.200 ;
-        RECT 4.000 60.880 295.600 61.560 ;
-        RECT 4.400 60.160 295.600 60.880 ;
-        RECT 4.400 59.520 296.000 60.160 ;
-        RECT 4.400 59.480 295.600 59.520 ;
-        RECT 4.000 58.120 295.600 59.480 ;
-        RECT 4.000 57.480 296.000 58.120 ;
-        RECT 4.000 56.120 295.600 57.480 ;
-        RECT 4.400 56.080 295.600 56.120 ;
-        RECT 4.400 55.440 296.000 56.080 ;
-        RECT 4.400 54.720 295.600 55.440 ;
-        RECT 4.000 54.040 295.600 54.720 ;
-        RECT 4.000 53.400 296.000 54.040 ;
-        RECT 4.000 52.000 295.600 53.400 ;
-        RECT 4.000 51.360 296.000 52.000 ;
-        RECT 4.400 50.680 296.000 51.360 ;
-        RECT 4.400 49.960 295.600 50.680 ;
-        RECT 4.000 49.280 295.600 49.960 ;
-        RECT 4.000 48.640 296.000 49.280 ;
-        RECT 4.000 47.240 295.600 48.640 ;
-        RECT 4.000 46.600 296.000 47.240 ;
-        RECT 4.400 45.200 295.600 46.600 ;
-        RECT 4.000 44.560 296.000 45.200 ;
-        RECT 4.000 43.160 295.600 44.560 ;
-        RECT 4.000 42.520 296.000 43.160 ;
-        RECT 4.000 41.160 295.600 42.520 ;
-        RECT 4.400 41.120 295.600 41.160 ;
-        RECT 4.400 40.480 296.000 41.120 ;
-        RECT 4.400 39.760 295.600 40.480 ;
-        RECT 4.000 39.080 295.600 39.760 ;
-        RECT 4.000 38.440 296.000 39.080 ;
-        RECT 4.000 37.040 295.600 38.440 ;
-        RECT 4.000 36.400 296.000 37.040 ;
-        RECT 4.400 35.000 295.600 36.400 ;
-        RECT 4.000 34.360 296.000 35.000 ;
-        RECT 4.000 32.960 295.600 34.360 ;
-        RECT 4.000 32.320 296.000 32.960 ;
-        RECT 4.000 31.640 295.600 32.320 ;
-        RECT 4.400 30.920 295.600 31.640 ;
-        RECT 4.400 30.280 296.000 30.920 ;
-        RECT 4.400 30.240 295.600 30.280 ;
-        RECT 4.000 28.880 295.600 30.240 ;
-        RECT 4.000 28.240 296.000 28.880 ;
-        RECT 4.000 26.880 295.600 28.240 ;
-        RECT 4.400 26.840 295.600 26.880 ;
-        RECT 4.400 26.200 296.000 26.840 ;
-        RECT 4.400 25.480 295.600 26.200 ;
-        RECT 4.000 24.800 295.600 25.480 ;
-        RECT 4.000 24.160 296.000 24.800 ;
-        RECT 4.000 22.760 295.600 24.160 ;
-        RECT 4.000 22.120 296.000 22.760 ;
-        RECT 4.400 20.720 295.600 22.120 ;
-        RECT 4.000 20.080 296.000 20.720 ;
-        RECT 4.000 18.680 295.600 20.080 ;
-        RECT 4.000 18.040 296.000 18.680 ;
-        RECT 4.000 17.360 295.600 18.040 ;
-        RECT 4.400 16.640 295.600 17.360 ;
-        RECT 4.400 16.000 296.000 16.640 ;
-        RECT 4.400 15.960 295.600 16.000 ;
-        RECT 4.000 14.600 295.600 15.960 ;
-        RECT 4.000 13.960 296.000 14.600 ;
-        RECT 4.000 12.600 295.600 13.960 ;
-        RECT 4.400 12.560 295.600 12.600 ;
-        RECT 4.400 11.920 296.000 12.560 ;
-        RECT 4.400 11.200 295.600 11.920 ;
-        RECT 4.000 10.520 295.600 11.200 ;
-        RECT 4.000 9.880 296.000 10.520 ;
-        RECT 4.000 8.480 295.600 9.880 ;
-        RECT 4.000 7.840 296.000 8.480 ;
-        RECT 4.400 6.440 295.600 7.840 ;
-        RECT 4.000 5.800 296.000 6.440 ;
-        RECT 4.000 4.400 295.600 5.800 ;
-        RECT 4.000 3.760 296.000 4.400 ;
-        RECT 4.000 3.080 295.600 3.760 ;
-        RECT 4.400 2.360 295.600 3.080 ;
-        RECT 4.400 2.215 296.000 2.360 ;
-=======
         RECT 4.000 118.000 295.600 119.360 ;
         RECT 4.400 117.960 295.600 118.000 ;
         RECT 4.400 117.320 296.000 117.960 ;
@@ -4840,7 +3071,6 @@ MACRO zube_wrapped_project
         RECT 99.840 31.455 174.240 269.785 ;
         RECT 176.640 31.455 251.040 269.785 ;
         RECT 253.440 31.455 279.385 269.785 ;
->>>>>>> 5f73601 (Re-hardened with latest Zube version.)
   END
 END zube_wrapped_project
 END LIBRARY
