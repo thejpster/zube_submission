@@ -37,6 +37,7 @@ SIM?=RTL
 
 # include the modules that cocotb needs for test
 export PYTHONPATH := $(UPRJ_RTL_PATH)/zube_submission/zube/test
+export LIBPYTHON_LOC=$(shell cocotb-config --libpython)
 
 .SUFFIXES:
 
