@@ -1,16 +1,8 @@
-# Information about your project
+# Zube
 
-This is a template project you can clone and use to take part in the multi project submission to the
-Google/Efabless/Skywater shuttle.
+Submission for MPW3 with https://www.zerotoasiccourse.com/
 
-The tools that will test and create the aggregated design are here: https://github.com/mattvenn/multi_project_tools
-
-# Project info.yaml
-
-You need to fill in the fields of [info.yaml](info.yaml)
-
-See [here for more information](https://github.com/mattvenn/multi_project_tools/blob/main/docs/project_spec.md)
-
+This is a wrapper for the project. The main [README is here](https://github.com/thejpster/zube/tree/0c3f85148596ec859bbe7e678092d4d762e3ba0d#readme).
 # License
 
 This project is [licensed under Apache 2](LICENSE)
